@@ -41,7 +41,6 @@ def get_facebook_posts():
     user_long_token = 'EAAg1mgNr5rMBABrx6sG1yTsFCvqv2rs5KgOyc10sDUmsKmTiu3b2RoJYea8hAJi6UZAmW0wymvdmFAY3IbBbP5IAeuxNrJm5SQccLuFgfVzwj35st11zNAiChNij5SVgTG854Vaypxr00KpRmNi6eRcOqqjQZD'
     graph = facebook.GraphAPI(access_token=user_long_token, version="2.7")
 
-# Driver code
 if __name__ == '__main__':
     # Here goes the twitter handle for the user
     # whose tweets are to be extracted.
