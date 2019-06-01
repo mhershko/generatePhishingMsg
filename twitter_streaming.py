@@ -1,5 +1,5 @@
 import tweepy
-import facebook
+from NER import NER
 
 #Variables that contains the user credentials to access Twitter API
 access_key = "1119680381479989248-H48YpATLs7DZvU9Zj7Xq0LS1hHh1QQ"
@@ -21,27 +21,29 @@ def get_tweets(username):
 
     # 200 tweets to be extracted
     number_of_tweets = 200
-    tweets = api.user_timeline(id="realDonaldTrump")
+    tweets = api.user_timeline(id=username)
 
     # Empty Array
-    tmp = []
+    tweets_list = []
 
     # create array of tweet information: username,
     # tweet id, date/time, text
     #tweets_for_csv = [tweet.text for tweet in tweets]  # CSV file created
     for tweet in tweets:
         # Appending tweets to the empty array tmp
-        tmp.append(tweet.text)
+        tweets_list.append(tweet.text)
 
-        # Printing the tweets
-    print(tmp)
+    # Printing the tweets
+    print(tweets_list)
+    return tweets_list
 
-
-def get_facebook_posts():
-    user_long_token = 'EAAg1mgNr5rMBABrx6sG1yTsFCvqv2rs5KgOyc10sDUmsKmTiu3b2RoJYea8hAJi6UZAmW0wymvdmFAY3IbBbP5IAeuxNrJm5SQccLuFgfVzwj35st11zNAiChNij5SVgTG854Vaypxr00KpRmNi6eRcOqqjQZD'
-    graph = facebook.GraphAPI(access_token=user_long_token, version="2.7")
 
 if __name__ == '__main__':
     # Here goes the twitter handle for the user
     # whose tweets are to be extracted.
-    get_tweets("twitter-handle")
+    tweets = get_tweets("realDonaldTrump")
+    ner = NER()
+    print("****** NLTK STANFORD NER ******")
+    l1 = [ner.nltk_stanford_ner(tweet) for tweet in tweets]
+    print("****** SPACY ******")
+    l2 = [ner.preprocess_spacy(tweet) for tweet in tweets]
