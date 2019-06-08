@@ -1,5 +1,6 @@
 import tweepy
 from NER import NER
+from NLG import MRK_NLG
 
 #Variables that contains the user credentials to access Twitter API
 access_key = "1119680381479989248-H48YpATLs7DZvU9Zj7Xq0LS1hHh1QQ"
@@ -21,7 +22,7 @@ def get_tweets(username):
 
     # 200 tweets to be extracted
     number_of_tweets = 200
-    tweets = api.user_timeline(id=username, count = number_of_tweets)
+    tweets = api.user_timeline(id=username, count = number_of_tweets, tweet_mode = 'extended')
 
     # Empty Array
     tweets_list = []
@@ -31,7 +32,7 @@ def get_tweets(username):
     #tweets_for_csv = [tweet.text for tweet in tweets]  # CSV file created
     for tweet in tweets:
         # Appending tweets to the empty array tmp
-        tweets_list.append(tweet.text)
+        tweets_list.append(tweet.full_text)
 
     # Printing the tweets
     print(tweets_list)
@@ -41,9 +42,28 @@ def get_tweets(username):
 if __name__ == '__main__':
     # Here goes the twitter handle for the user
     # whose tweets are to be extracted.
-    tweets = get_tweets("realDonaldTrump")
     ner = NER()
-    print("****** NLTK STANFORD NER ******")
-    l1 = [ner.nltk_stanford_ner(tweet) for tweet in tweets]
-    print("****** SPACY ******")
-    l2 = [ner.preprocess_spacy(tweet) for tweet in tweets]
+
+    # Data retrieval and NER processing
+    process_again = True
+    if process_again:
+        tweets = get_tweets("realDonaldTrump")
+        print("****** NLTK STANFORD NER ******")
+        for tweet in tweets:
+           ner.nltk_stanford_ner(tweet)
+        ner.dump_json('stanford.txt')
+        print("****** SPACY ******")
+        for tweet in tweets:
+            ner.preprocess_spacy(tweet)
+        ner.dump_json('spacy.txt')
+    else:
+        ner.load_json('stanford.txt')
+        #ner.load_json('spacy.txt')
+        print("Loaded : " + str(len(ner.loaded_data)))
+
+    ner.create_tweets_list()
+    ner.create_word_list()
+
+    m_nlg = MRK_NLG(ner.all_tweets)
+    for i in range(100):
+        m_nlg.create_tweet()
