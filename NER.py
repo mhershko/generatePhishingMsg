@@ -16,7 +16,8 @@ import re
 class NER:
 
     def __init__(self):
-        java_path = "C:/Program Files/Java/jdk1.8.0_101/bin/java.exe"
+        #java_path = "C:/Program Files/Java/jdk1.8.0_101/bin/java.exe"
+        java_path = "C:/Program Files/Java/jdk1.8.0_201/bin/java.exe"
         os.environ['JAVAHOME'] = java_path
         nltk.download('punkt')
         nltk.download('averaged_perceptron_tagger')
@@ -24,11 +25,17 @@ class NER:
             'stanford-ner-2018-10-16/classifiers/english.all.3class.distsim.crf.ser.gz',
             'stanford-ner-2018-10-16/stanford-ner-3.9.2.jar'
         )
+        with open('hobbies.txt', 'r') as f:
+            self.list_of_hobbies = [line.lower().strip() for line in f]
+
         self.spacy_nlp = spacy.load('en_core_web_sm')
         self.data = []
         self.loaded_data = {}
         self.out_words = []
         self.all_tweets = []
+        self.work_of_art = []
+        self.countries = []
+        self.hobbies = []
 
     def clean_tweet(self, tweet):
         """
@@ -87,6 +94,12 @@ class NER:
         self.data[len(self.data) - 1]['words'].append({
             cat : value,
         })
+        if cat == 'WORK_OF_ART':
+            self.work_of_art.append(value)
+        if cat == 'GPE' or 'LOCATION':
+            self.countries.append(value)
+        if value in self.list_of_hobbies:
+            self.hobbies.append(value)
 
     # preprocess data using nltk library
     def preprocess_nltk(self, post):
@@ -115,6 +128,8 @@ class NER:
             tag_type = result[1]
             if tag_type != 'O':
                 self.process_element(tag_type, tag_value)
+            if tag_value in self.list_of_hobbies:
+                self.hobbies.append(tag_value)
 
     def preprocess_spacy(self, post):
         self.process_post(post)
