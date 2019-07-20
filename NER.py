@@ -16,8 +16,9 @@ import re
 class NER:
 
     def __init__(self):
-        #java_path = "C:/Program Files/Java/jdk1.8.0_101/bin/java.exe"
-        java_path = "C:/Program Files/Java/jdk1.8.0_201/bin/java.exe"
+        #java_path = "C:/Program Files/Java/<VERSION>/bin/java.exe"
+        # where <>VERSION is "jdk1.8.0_101" or "jdk1.8.0_201"
+        java_path = "C:/Program Files/Java/jdk1.8.0_101/bin/java.exe"
         os.environ['JAVAHOME'] = java_path
         nltk.download('punkt')
         nltk.download('averaged_perceptron_tagger')
@@ -80,7 +81,7 @@ class NER:
         post = str(post)
         print("\nOriginal post: %s", post)
         c_post = self.clean_tweet(post)
-        print("\nClean post: %s", c_post)
+        print("Clean post: %s", c_post)
         self.data.append({
             'post': post,
             'c_post': c_post,
@@ -143,13 +144,23 @@ class NER:
         for element in blob.tags:
             self.process_element(element.label_, element)
 
+    def remove_dup(self):
+        self.work_of_art = list(dict.fromkeys(self.work_of_art))
+        self.countries = list(dict.fromkeys(self.countries))
+        self.hobbies = list(dict.fromkeys(self.hobbies))
+
     def dump_json(self, file_name):
+        all = [self.data, self.work_of_art, self.countries, self.hobbies]
         with open(file_name, 'w') as outfile:
-            json.dump(self.data, outfile)
+            json.dump(all, outfile)
 
     def load_json(self, file_name):
         with open(file_name) as json_file:
-            self.loaded_data = json.load(json_file)
+            all = json.load(json_file)
+        self.data = all[0]
+        self.work_of_art = all[1]
+        self.countries = all[2]
+        self.hobbies = all[3]
 
     def create_tweets_list(self):
         for t in self.data:

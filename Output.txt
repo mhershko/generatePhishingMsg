@@ -1,0 +1,2166 @@
+C:\Users\*\AppData\Local\Programs\Python\Python37\python.exe D:/Dev/Shitot_Project_ORG/generatePhishingMsg/twitter_streaming.py
+[nltk_data] Downloading package punkt to
+[nltk_data]     C:\Users\*\AppData\Roaming\nltk_data...
+[nltk_data]   Package punkt is already up-to-date!
+[nltk_data] Downloading package averaged_perceptron_tagger to
+[nltk_data]     C:\Users\*\AppData\Roaming\nltk_data...
+[nltk_data]   Package averaged_perceptron_tagger is already up-to-
+[nltk_data]       date!
+['Please call it ‘Thor Fhor.’ https://t.co/L8gfAHQNLP', 'Every single character voiced by Adam Sandler. There, I fixed The Lion King for you.', 'Every item of clothing looks like it came from the Lost and Found box. https://t.co/FQwWnkB771', 'Spent the whole day at the beach, but forgot to take a picture to post on Instagram. So that was a waste of time.', 'Pretty weird for Mueller to end his press conference by telling everyone to go see John Wick 3.', 'Turns out the Iron Throne was inside all of us, all along.', 'The Starbucks cup just reinforces my theory that Game of Thrones takes place in modern-day Canada.', 'As a kid, I way overestimated how much of my adult life would be spent in karate fights.', 'A Hawkeye standalone movie that takes place immediately after “Avengers: Endgame,” where he just goes around picking up all his arrows.', 'I spend every minute of every social interaction frantically searching for the conversation exit ramp.', 'Tiger Woods has already done the impossible. He made me get up early to watch golf.', 'Fingers crossed this new Star Wars movie finally brings closure to the whole issue of trade route taxation.', 'I will withhold judgment until we hear from Carmen Electra. https://t.co/ATJEsfOwP6', 'Scientists unveil first image of Twitter. https://t.co/fnUFB1Og0v', 'wtf, mueller report also says barbra streisand made some good points!?', 'You know you’ve planned your Saturday properly when you can squeeze in a second nap.', 'what if the final page of the mueller report is a perfect march madness bracket', 'I feel like Beto O’Rourke understands me. I, too, have only one good shirt.', 'So add “unwilling to bribe colleges” to the many ways my parents failed me.', 'In the future, everyone will be White House communications director for 15 minutes.', "Giving up Twitter for Lent. I will still read tweets and respond when necessary. And I'll be checking my DMs. And posting from time to time. Other than that, totally giving up Twitter. \n\nI'll check in tomorrow and tell you how it's going.", 'Turns out this Robert Kraft story didn’t have a happy ending.', 'If you don’t win The Masked Singer, you should be doomed to forevermore walk the face of the earth in your costume, as a warning to all.', "It's not happening, Fitbit. Take the hint.", 'Same https://t.co/4n5DZlUDPd', 'Avatar director James Cameron... https://t.co/vSvepHeIOG', 'Sorry, but none of you are sparking joy right now.', 'Heading into the weekend like https://t.co/NlKKz8PjfT', 'The important thing is we’re all having no fun. #SuperBowl', 'These punts are fantastic.', "The Rams will beat the Patriots 877-531 or I don't know football.", 'Nice try, moon. Still not looking up from my phone.', 'Fully expect Trump’s “major announcement” tomorrow to be the return of Endless Shrimp at Red Lobster.', 'Wish granted. https://t.co/YOZz20SwKW', '&lt; johnny cash’s version of “hurt” begins playing &gt; https://t.co/2cW6foI3LG', 'Watch how smoothly I transition from Christmas candy to Valentine’s Day candy.', 'Let me be the very first to wish you and your family a happy and healthy 2023.', 'Fuck it, my 2019 begins NOW.', 'Just convinced myself that it would be disrespectful to work out during a government shutdown.', 'It’s not Christmas until I see Snoopy eating 37 human femurs. https://t.co/4MuYoaACCw', 'Would hate to be the staffer who has to explain to Trump why he can’t replace Mattis with The General from those insurance ads.', 'Baby, It’s Cold Outside But Not As Cold As It Should Be Because Temperatures Are Steadily Rising Due To Man-Made Climate Change And Our Leaders Refuse To Do Anything About It So We’re All Gonna Die Soon So Hey We Might As Well Bang', 'I feel like it would still be a December to Remember if, instead of a Lexus, you gave someone a sack filled with angry raccoons.', 'Fun airport activity: 1) Listen to a business person loudly close a deal over the phone, 2) Remember as many details as possible, 3) Wait, 4) Go stand near that person, 5) Loudly pretend to call the home office and cancel the deal.', 'Just stared down an emotional support dog to establish B49 gate dominance.', 'Waaaaaaaaay ahead of you. https://t.co/fRqJlJaD5g', 'This week, hold your family close and be extra thankful that you didn’t see that new Robin Hood movie.', 'I was two. Quit being so stupid, everyone else. https://t.co/eKrnnrwxwK', 'Well, I did it. I finished reading the entire Internet. Not going to lie, it bogs down a bit in the middle.', 'Looking forward to getting these midterm elections out of the way so we can all talk about that new Nutcracker movie.', 'Really enjoying this extra hour of existential crisis today.', 'Sorry, but I need at least three more A-list celebrities to tell me to vote before I’ll even consider it.', 'Last-minute Halloween idea: go to bed early.', 'Can’t wait to debate my jokes with all of you. https://t.co/pJPtxD3xTs', 'He lived in a van down by the Reddit.', 'They should turn “The Conners” into a police procedural and kill off one cast member every single week.', 'What if Linus had been right about the Great Pumpkin? Really makes you think.', 'Pizza, except at the edges of the pizza, where there shouldn’t be any more pizza, there’s even more pizza.', 'For purposes of receiving and cashing checks, I am now known as Kanye West. https://t.co/jHIPo2iWpX', 'My pacifist friends and I just started a Flight Club.', 'Don’t forget to take a break from planning your elaborate Halloween costume to ask yourself how things went this wrong for you.', '@McNulty_Mike Mike, Crosswalk is the brainchild of the great Ian Karmel. Please send visual proof of your instructor’s beating so we can put this ugly incident behind us as soon as possible.', 'An Escape Room where you have to figure out how to get off the phone with my mother.', 'Stupid Twitter joke formats, ranked:\n\n10. You\n9. Can’t\n8. Rank\n7. Them\n6. Because\n5. They’re\n4. All\n3. Equally\n2. Stupid\n1. This one', 'Perfect casting. https://t.co/7M4vm787I4', 'A live TV special where Geraldo Rivera opens the National Enquirer vault.', 'No act is more symbolic of adult life than the resigned acceptance of a restaurant’s house salad.', 'All of this is a direct attack on our nation’s Space Force!', 'Twitter has become an awful hellscape of hatred and stupidity but it’s still a nice distraction from the awful hellscape of hatred and stupidity that is real life.', "Huge shout out to people who wear headphones because they don't want to be bothered.", 'Just met a guy named Kevin who I swear looks more like a Steve. Life is a crazy adventure.', 'Pretty sure the first guy who came up with frisbee golf was just throwing it out there.', 'THESE ARE MY EMOTIONAL SUPPORT TOASTER STRUDELS AND THIS IS MY THERAPY TEQUILA, NOW EXCUSE ME MY MOVIE IS ABOUT TO BEGIN', 'Fuck you, Tuesday, you god damn Neo-Monday.', 'Thank you but your services will not be needed tonight, resealable tab on the Oreos package.', 'Let’s be honest here. None of those missions have been impossible.', 'What are the odds! Got the same, talkative Uber driver twice in one week. It’s like being struck by lightning, except worse.', 'The only secretly-recorded tape that would shock me is one where Trump is caught saying “please” and “thank you.”', 'This will all be worth it once it’s revealed that Trump is a Sacha Baron Cohen character.', 'The World Cup ended just two days ago and I’ve already forgotten soccer exists.', 'Next up, Trump’s summit with Papa John.', 'Trump really gunning for that Employee of the Month award.', 'And today is the day Elon Musk began working on a time machine.', 'I keep a loaded t-shirt cannon under my pillow in case 13,000 people break into my house.', 'Elon Musk now working on a way to save Belgium. #FRABEL', 'This is my parking level. Not confusing at all. https://t.co/TZhknABF0b', 'Owning a triple-crown winning racehorse looks fun as hell and yet my high school guidance counselor never offered it up as a career choice. WTF!?', 'Movie idea: Ocean’s 9.', 'Life is like a box of chocolates, because both are better with wine. Also, I murdered a guy in El Paso.', 'Nailed my milk to cereal ratio just now in case you’re wondering if there are still heroes out there.', 'If I have to wait an hour after eating before getting into the pool, let’s face it, I’m never getting into the pool.', '@JordanCHubbard  https://t.co/G9b769lhMw', 'RETWEET IF YOU ARE OUTRAGED ABOUT THIS THING, FAVE IF YOU ARE OUTRAGED ABOUT THAT OTHER THING', 'Really need the cast of The Marvelous Mrs. Maisel to not send out any racist tweets, thanks.', 'Out of spite, ABC should greenlight a Planet of the Apes sitcom.', 'Really looking forward to using the four-day holiday weekend to dig into all these new privacy policy emails. Thanks, Internet.', 'CONGRATULATIONS TO MISS NEBRASKA, THE NEW MISS USA. MAY THE STREETS RUN RED WITH THE BLOOD OF IOWANS DURING YOUR JOYOUS REIGN', 'If we all typed THE END maybe Twitter will finally stop.', 'Whoever the first person was who woke up one morning and decided to “make the bed” really screwed over humanity.', 'Wanna feel old? That Laurel/Yanny thing was seven years ago.', 'Be nice to others. That way, they’ll let their guard down and then you can exploit all their weaknesses later.', 'Is it weird that my Mom got flowers and a "thank you" card from my therapist?', "RT @badbanana: It's awful that those other chipmunks force Alvin to wear an A on his sweater just because he's an adulterer.", 'Time to face a difficult truth. You like the idea of red velvet cupcakes more than you actually like red velvet cupcakes.', 'In an effort to use my social media influence for good, I urge everyone who reads this to please stop putting fucking nuts in brownies.', 'Thanos 2020', 'Pretty sure that’s called a “movie.” https://t.co/LM6f3Aqquj', "RT @badbanana: I've said it before. If Clifford was a Big Red Cat, everyone would be dead.", 'Shout out to the prankster who convinced James Cameron that people want to see five more Avatar movies.', 'Way ahead of you guys on not eating romaine lettuce.', 'Fully expect the Art Bell autopsy report to say he died of old age in 1937.', 'If there isn’t a picture of Frank Sinatra on the wall, how am I supposed to know if this is an Italian restaurant?', 'If nothing else, we should impeach him for ruining Twitter.', 'Precisely why I always drink two or more. https://t.co/178DTdYquE', 'Fun idea: Tricking young people into reading Shakespearean sonnets by formatting them as American Chopper argument memes.', 'Offer declined, thank you. https://t.co/wbZt0SHwRY', 'Pitch: A Dharma &amp; Greg reboot, except now they’re both huge Ted Cruz supporters.', '@benrector Actual audio and it went for a solid two minutes before I started filming.', 'Dude https://t.co/L2eqotYXXZ', '&lt; puts on VR headset, enters the Ready Player One world as Andy Rooney, begins complaining to everyone about self-adhesive envelopes &gt;', 'BIDEN vs TRUMP https://t.co/O4dAkhJla5', 'We are five years away from the Thunderdome being a fourth, co-equal branch of government.', 'That back tattoo photo isn’t even in the top five worst things Ben Affleck has appeared in.', 'A Pacific Rim crossover with The Shape of Water and I think you know where I’m going with this.', 'Yes, Facebook is evil but until there’s a better way to know when internet strangers are having a birthday, there’s nothing we can do.', "RT @badbanana: At the last minute, the judge should jack up Martin Shkreli's prison sentence 4,000 percent.", 'RT @badbanana: Reality show idea: "So You Think You Can Touch Mike Tyson\'s Nose." Hidden camera. Tyson isn\'t in on it.', 'Delta Airlines cuts ties with NRA. Listen, I want change as much as the next guy, but forcing the NRA to fly United just seems cruel.', 'Would it kill these ice dancers to skate to a little Smash Mouth? #AllStar #Ad #SponsoredTweet #PaidForBySmashMouth', 'Fergie wasn’t singing. She was delivering a precise audible code to awaken the other Black Eyed Peas from their cryogenic slumber. This is not a drill.', 'Torn. I hate the thought of a stroke, but I love the smell of burnt toast.', 'Every single person on the planet is ten days of dedicated practice away from being a medalist in curling.', 'Would it be weird if the music I do my ice dancing routine to is just a low voice slowly repeating the home addresses of all the judges?', 'I like the Winter Olympics because I feel like if you got me drunk enough and pushed me down a mountain I might accidentally win a medal.', 'Still time to break up before Valentine’s Day.', 'Idea: A Las Vegas hotel where you can avoid Cirque du Soleil.', 'I have a few thousand follow up questions for Quincy Jones.', 'WANT https://t.co/4gXBnGqbuE', 'They should make Red Hot Chili Peppers Doritos so your stomach can hate the band as much as your ears do.', 'I’ve never willingly read a memo and I’m not starting now.', 'Your 20s: Passionately arguing about music.\n\nYour 30s: Passionately arguing about movies.\n\nYour 40s: Passionately arguing about brands of antacid.', 'My biggest fear is my pizza delivery guy and my Chinese food delivery guy getting together and comparing notes.', 'Very excited to announce that while Reba McEntire is playing the new Colonel Sanders I will be playing the new Reba McEntire.', 'The first rule of Secret Society is you talk and text about Secret Society.', "Some see a glass half empty. Others, a glass half full. I just see that someone forgot to put his glass into the dishwasher upside down and we've talked about this, Chad.", 'I’m more of a “get spanked with Businessweek” kind of guy.', 'There’s only one way for me to shake this bad mood I’m in. I need to punch a Bitcoin millionaire.', 'Aloha to the person in charge of sending out emergency alerts in Hawaii. And also, Aloha.', 'Trump isn’t so much politically incorrect as he is everything incorrect.', 'To be clear, I’m not being racist when I call Council Bluffs, Iowa a shithole.', 'Two weeks into my new diet and I’ve decided it would be a lot easier for me if everyone else just decided to get fat.', 'Pro tip: Wipe the foam from your mouth before screaming into the void about how stable a genius you are.', 'I’m calling this photo “America 2018.” I didn’t expect to win a Pulitzer on my way to work today, but there you go. https://t.co/GdJpID2MYv', '“Hey, I finally found a domain name that’s available!” https://t.co/7HZjz26cDt', 'Why not make the entire airplane out of emotional support animals?', 'Happy Pretend It’s The New Year In The Central Time Zone, Too, So I Can Just Go To Bed Now!', '@jilltwiss No joke, I have watched it twice. They destroy the entire room. It’s genius.', '@stevebyrnelive All Steves, sorry.', 'God bless us, everyone (except Steve).', 'Not gonna lie. I’ve had happier Honda Days.', 'We’re just going to let Winter Wonderland get away with rhyming blue bird and new bird? That’s cool with everyone?', 'On Christmas morning, Donald Trump waking up and bragging about being visited by “dozens, if not hundreds” of ghosts.', 'Not true, Little Drummer Boy. You could have given the baby your drum.', '(SPOILER ALERT) In 100 years, nobody will remember you.', 'My favorite Christmas song is whatever plays immediately after Feliz Navidad.', 'Over the last fifteen years, automatic paper towel dispensers have improved so dramatically they almost work sometimes.', 'In retrospect, I probably should have become George Clooney’s best friend. That’s on me. https://t.co/dXTR6m6Irm', 'How would anyone know if Steve Bannon slipped into a post-election depression and started to let himself go?', 'Praying for Franklin Graham. https://t.co/QSWsX5biGm', 'Roy Moore stepping away from politics to spend more time with his wife and your kids.', "The message of that Rudolph special is to just be yourself. Unless you're too weird, in which case we'll violently pull out all of your teeth.", 'If you listen very closely to The Little Drummer Boy you can actually hear the three wise men rolling their eyes.', "Gonna spend the weekend binge-watching the Domino's Pizza Tracker.", 'Sorry I haven’t tweeted in a while but for a while there I was emotionally stable.', 'I like to be photographed with a Supermoon because it makes me look thinner.', 'Fair warning: I will stand up and object to your marriage if your wedding hashtag is too cutesy.', 'It might be time for Twitter to delete Twitter.', 'Arby’s is buying Buffalo Wild Wings? Your Christmas dinner meal planning just got a whole lot easier, recently divorced dads.', 'Not a good sign that the pilot of this plane has an emotional support dog.', '“SURPRISE! Happy birthday!”\n\n“Uh, my birthday isn’t for another three months.”\n\n“What part of ‘surprise’ do you not understand?”', 'Not a single obituary mentions Charles Manson’s beautiful singing voice.', 'Now that Charles Manson is dead, the most evil person in America is the guy who invented resort fees for hotels.', 'The greatest trick the devil ever pulled was making Twitter so simple even a barely literate 71-year-old could master it.', 'If you wanted to name your boat after a 1980s R&amp;B group, you can’t go wrong with DeBarge.', 'Wanna feel old? That guy you knew from that thing is even older now!', '[ open twitter, instantly hate humanity a teensy bit more, close twitter, repeat fifty times a day for the rest of our lives, apparently ]', 'Not sure how to pronounce the second word of this Thor sequel. https://t.co/QC0AOouIG3', 'Looks like Christopher Plummer will be getting the 11pm slot at the Comedy Cellar tonight.', 'Autumn is the best season if for no other reason than sweaters are very forgiving.', 'The only good thing about 280 characters is that I now have a visual cue for which tweets to automatically skip.', 'If I wanted to hear what anyone had to say in more than 140 characters I’d go outside and interact with real people. NO THANK YOU.', 'Fuck every single one of these additional 140 characters.', 'maybe don’t put the spigot there tho https://t.co/7mI8xCWbMh', 'Guy behind me at the movie concession stand just ordered a “sausage baguette and a glass of Chardonnay.” Please send drone strike.', 'Couldn’t get out of Vietnam this time? https://t.co/doiEgNpG9A', 'Billion dollar holiday movie idea: “Murder on the Polar Express.”', 'I feel like I would thrive in the Upside Down.', 'It’s Friday, which means it’s almost the weekend, which means we’re marching methodically towards death, but don’t focus on that last part!', 'So basically.... T-Mobile is holding hurricane relief money hostage unless someone hits a home run?', 'Congratulations to the 1991 Macintosh Classic II that designed this year’s World Series arm patch.']
+****** NLTK STANFORD NER ******
+Tweet number: 0 Out of 200
+
+Original post: %s Please call it ‘Thor Fhor.’ https://t.co/L8gfAHQNLP
+Clean post: %s Please call it ‘Thor Fhor.’ 
+Tweet number: 1 Out of 200
+
+Original post: %s Every single character voiced by Adam Sandler. There, I fixed The Lion King for you.
+Clean post: %s Every single character voiced by Adam Sandler. There, I fixed The Lion King for you.
+Tweet number: 2 Out of 200
+
+Original post: %s Every item of clothing looks like it came from the Lost and Found box. https://t.co/FQwWnkB771
+Clean post: %s Every item of clothing looks like it came from the Lost and Found box. 
+Tweet number: 3 Out of 200
+
+Original post: %s Spent the whole day at the beach, but forgot to take a picture to post on Instagram. So that was a waste of time.
+Clean post: %s Spent the whole day at the beach, but forgot to take a picture to post on Instagram. So that was a waste of time.
+Tweet number: 4 Out of 200
+
+Original post: %s Pretty weird for Mueller to end his press conference by telling everyone to go see John Wick 3.
+Clean post: %s Pretty weird for Mueller to end his press conference by telling everyone to go see John Wick 3.
+Type: PERSON, Value: Mueller
+Type: PERSON, Value: John
+Type: PERSON, Value: Wick
+Tweet number: 5 Out of 200
+
+Original post: %s Turns out the Iron Throne was inside all of us, all along.
+Clean post: %s Turns out the Iron Throne was inside all of us, all along.
+Tweet number: 6 Out of 200
+
+Original post: %s The Starbucks cup just reinforces my theory that Game of Thrones takes place in modern-day Canada.
+Clean post: %s The Starbucks cup just reinforces my theory that Game of Thrones takes place in modern-day Canada.
+Type: ORGANIZATION, Value: Starbucks
+Tweet number: 7 Out of 200
+
+Original post: %s As a kid, I way overestimated how much of my adult life would be spent in karate fights.
+Clean post: %s As a kid, I way overestimated how much of my adult life would be spent in karate fights.
+Tweet number: 8 Out of 200
+
+Original post: %s A Hawkeye standalone movie that takes place immediately after “Avengers: Endgame,” where he just goes around picking up all his arrows.
+Clean post: %s A Hawkeye standalone movie that takes place immediately after “Avengers: Endgame,” where he just goes around picking up all his arrows.
+Type: LOCATION, Value: Hawkeye
+Tweet number: 9 Out of 200
+
+Original post: %s I spend every minute of every social interaction frantically searching for the conversation exit ramp.
+Clean post: %s I spend every minute of every social interaction frantically searching for the conversation exit ramp.
+Tweet number: 10 Out of 200
+
+Original post: %s Tiger Woods has already done the impossible. He made me get up early to watch golf.
+Clean post: %s Tiger Woods has already done the impossible. He made me get up early to watch golf.
+Type: PERSON, Value: Tiger
+Type: PERSON, Value: Woods
+Tweet number: 11 Out of 200
+
+Original post: %s Fingers crossed this new Star Wars movie finally brings closure to the whole issue of trade route taxation.
+Clean post: %s Fingers crossed this new Star Wars movie finally brings closure to the whole issue of trade route taxation.
+Tweet number: 12 Out of 200
+
+Original post: %s I will withhold judgment until we hear from Carmen Electra. https://t.co/ATJEsfOwP6
+Clean post: %s I will withhold judgment until we hear from Carmen Electra. 
+Tweet number: 13 Out of 200
+
+Original post: %s Scientists unveil first image of Twitter. https://t.co/fnUFB1Og0v
+Clean post: %s Scientists unveil first image of Twitter. 
+Tweet number: 14 Out of 200
+
+Original post: %s wtf, mueller report also says barbra streisand made some good points!?
+Clean post: %s wtf, mueller report also says barbra streisand made some good points!?
+Tweet number: 15 Out of 200
+
+Original post: %s You know you’ve planned your Saturday properly when you can squeeze in a second nap.
+Clean post: %s You know you’ve planned your Saturday properly when you can squeeze in a second nap.
+Tweet number: 16 Out of 200
+
+Original post: %s what if the final page of the mueller report is a perfect march madness bracket
+Clean post: %s what if the final page of the mueller report is a perfect march madness bracket
+Tweet number: 17 Out of 200
+
+Original post: %s I feel like Beto O’Rourke understands me. I, too, have only one good shirt.
+Clean post: %s I feel like Beto O’Rourke understands me. I, too, have only one good shirt.
+Type: PERSON, Value: Beto
+Type: PERSON, Value: O’Rourke
+Tweet number: 18 Out of 200
+
+Original post: %s So add “unwilling to bribe colleges” to the many ways my parents failed me.
+Clean post: %s So add “unwilling to bribe colleges” to the many ways my parents failed me.
+Tweet number: 19 Out of 200
+
+Original post: %s In the future, everyone will be White House communications director for 15 minutes.
+Clean post: %s In the future, everyone will be White House communications director for 15 minutes.
+Type: ORGANIZATION, Value: White
+Type: ORGANIZATION, Value: House
+Tweet number: 20 Out of 200
+
+Original post: %s Giving up Twitter for Lent. I will still read tweets and respond when necessary. And I'll be checking my DMs. And posting from time to time. Other than that, totally giving up Twitter. 
+
+I'll check in tomorrow and tell you how it's going.
+Clean post: %s Giving up Twitter for Lent. I will still read tweets and respond when necessary. And I'll be checking my DMs. And posting from time to time. Other than that, totally giving up Twitter. I'll check in tomorrow and tell you how it's going.
+Type: LOCATION, Value: Twitter
+Tweet number: 21 Out of 200
+
+Original post: %s Turns out this Robert Kraft story didn’t have a happy ending.
+Clean post: %s Turns out this Robert Kraft story didn’t have a happy ending.
+Type: PERSON, Value: Robert
+Type: PERSON, Value: Kraft
+Tweet number: 22 Out of 200
+
+Original post: %s If you don’t win The Masked Singer, you should be doomed to forevermore walk the face of the earth in your costume, as a warning to all.
+Clean post: %s If you don’t win The Masked Singer, you should be doomed to forevermore walk the face of the earth in your costume, as a warning to all.
+Tweet number: 23 Out of 200
+
+Original post: %s It's not happening, Fitbit. Take the hint.
+Clean post: %s It's not happening, Fitbit. Take the hint.
+Tweet number: 24 Out of 200
+
+Original post: %s Same https://t.co/4n5DZlUDPd
+Clean post: %s Same 
+Tweet number: 25 Out of 200
+
+Original post: %s Avatar director James Cameron... https://t.co/vSvepHeIOG
+Clean post: %s Avatar director James Cameron... 
+Type: PERSON, Value: James
+Type: PERSON, Value: Cameron...
+Type: PERSON, Value: https:t.covSvepHeIOG
+Tweet number: 26 Out of 200
+
+Original post: %s Sorry, but none of you are sparking joy right now.
+Clean post: %s Sorry, but none of you are sparking joy right now.
+Tweet number: 27 Out of 200
+
+Original post: %s Heading into the weekend like https://t.co/NlKKz8PjfT
+Clean post: %s Heading into the weekend like 
+Tweet number: 28 Out of 200
+
+Original post: %s The important thing is we’re all having no fun. #SuperBowl
+Clean post: %s The important thing is we’re all having no fun. #SuperBowl
+Tweet number: 29 Out of 200
+
+Original post: %s These punts are fantastic.
+Clean post: %s These punts are fantastic.
+Tweet number: 30 Out of 200
+
+Original post: %s The Rams will beat the Patriots 877-531 or I don't know football.
+Clean post: %s The Rams will beat the Patriots 877-531 or I don't know football.
+Type: ORGANIZATION, Value: Patriots
+Tweet number: 31 Out of 200
+
+Original post: %s Nice try, moon. Still not looking up from my phone.
+Clean post: %s Nice try, moon. Still not looking up from my phone.
+Tweet number: 32 Out of 200
+
+Original post: %s Fully expect Trump’s “major announcement” tomorrow to be the return of Endless Shrimp at Red Lobster.
+Clean post: %s Fully expect Trump’s “major announcement” tomorrow to be the return of Endless Shrimp at Red Lobster.
+Type: LOCATION, Value: Red
+Type: LOCATION, Value: Lobster.
+Tweet number: 33 Out of 200
+
+Original post: %s Wish granted. https://t.co/YOZz20SwKW
+Clean post: %s Wish granted. 
+Tweet number: 34 Out of 200
+
+Original post: %s &lt; johnny cash’s version of “hurt” begins playing &gt; https://t.co/2cW6foI3LG
+Clean post: %s &lt; johnny cash’s version of “hurt” begins playing &gt; 
+Tweet number: 35 Out of 200
+
+Original post: %s Watch how smoothly I transition from Christmas candy to Valentine’s Day candy.
+Clean post: %s Watch how smoothly I transition from Christmas candy to Valentine’s Day candy.
+Tweet number: 36 Out of 200
+
+Original post: %s Let me be the very first to wish you and your family a happy and healthy 2023.
+Clean post: %s Let me be the very first to wish you and your family a happy and healthy 2023.
+Tweet number: 37 Out of 200
+
+Original post: %s Fuck it, my 2019 begins NOW.
+Clean post: %s Fuck it, my 2019 begins NOW.
+Tweet number: 38 Out of 200
+
+Original post: %s Just convinced myself that it would be disrespectful to work out during a government shutdown.
+Clean post: %s Just convinced myself that it would be disrespectful to work out during a government shutdown.
+Tweet number: 39 Out of 200
+
+Original post: %s It’s not Christmas until I see Snoopy eating 37 human femurs. https://t.co/4MuYoaACCw
+Clean post: %s It’s not Christmas until I see Snoopy eating 37 human femurs. 
+Tweet number: 40 Out of 200
+
+Original post: %s Would hate to be the staffer who has to explain to Trump why he can’t replace Mattis with The General from those insurance ads.
+Clean post: %s Would hate to be the staffer who has to explain to Trump why he can’t replace Mahi-mahi with The General from those insurance ads.
+Type: PERSON, Value: Trump
+Type: PERSON, Value: Mattis
+Tweet number: 41 Out of 200
+
+Original post: %s Baby, It’s Cold Outside But Not As Cold As It Should Be Because Temperatures Are Steadily Rising Due To Man-Made Climate Change And Our Leaders Refuse To Do Anything About It So We’re All Gonna Die Soon So Hey We Might As Well Bang
+Clean post: %s Baby, It’s Cold Outside But Not As Cold As It Should Be Because Temperatures Are Steadily Rising Due To Man-Made Climate Change And Our Leaders Refuse To Do Anything About It So We’re All Gonna Die Soon So Hey We Might As Well Bang
+Tweet number: 42 Out of 200
+
+Original post: %s I feel like it would still be a December to Remember if, instead of a Lexus, you gave someone a sack filled with angry raccoons.
+Clean post: %s I feel like it would still be a December to Remember if, instead of a Lexus, you gave someone a sack filled with angry raccoons.
+Tweet number: 43 Out of 200
+
+Original post: %s Fun airport activity: 1) Listen to a business person loudly close a deal over the phone, 2) Remember as many details as possible, 3) Wait, 4) Go stand near that person, 5) Loudly pretend to call the home office and cancel the deal.
+Clean post: %s Fun airport activity: 1) Listen to a business person loudly close a deal over the phone, 2) Remember as many details as possible, 3) Wait, 4) Go stand near that person, 5) Loudly pretend to call the home office and cancel the deal.
+Tweet number: 44 Out of 200
+
+Original post: %s Just stared down an emotional support dog to establish B49 gate dominance.
+Clean post: %s Just stared down an emotional support dog to establish B49 gate dominance.
+Tweet number: 45 Out of 200
+
+Original post: %s Waaaaaaaaay ahead of you. https://t.co/fRqJlJaD5g
+Clean post: %s Waaaaaaaaay ahead of you. 
+Tweet number: 46 Out of 200
+
+Original post: %s This week, hold your family close and be extra thankful that you didn’t see that new Robin Hood movie.
+Clean post: %s This week, hold your family close and be extra thankful that you didn’t see that new Robin Hood movie.
+Type: PERSON, Value: Robin
+Type: PERSON, Value: Hood
+Type: PERSON, Value: movie.
+Tweet number: 47 Out of 200
+
+Original post: %s I was two. Quit being so stupid, everyone else. https://t.co/eKrnnrwxwK
+Clean post: %s I was two. Quit being so stupid, everyone else. 
+Tweet number: 48 Out of 200
+
+Original post: %s Well, I did it. I finished reading the entire Internet. Not going to lie, it bogs down a bit in the middle.
+Clean post: %s Well, I did it. I finished reading the entire Internet. Not going to lie, it bogs down a bit in the middle.
+Tweet number: 49 Out of 200
+
+Original post: %s Looking forward to getting these midterm elections out of the way so we can all talk about that new Nutcracker movie.
+Clean post: %s Looking forward to getting these midterm elections out of the way so we can all talk about that new Nutcracker movie.
+Tweet number: 50 Out of 200
+
+Original post: %s Really enjoying this extra hour of existential crisis today.
+Clean post: %s Really enjoying this extra hour of existential crisis today.
+Tweet number: 51 Out of 200
+
+Original post: %s Sorry, but I need at least three more A-list celebrities to tell me to vote before I’ll even consider it.
+Clean post: %s Sorry, but I need at least three more A-list celebrities to tell me to vote before I’ll even consider it.
+Tweet number: 52 Out of 200
+
+Original post: %s Last-minute Halloween idea: go to bed early.
+Clean post: %s Last-minute Halloween idea: go to bed early.
+Tweet number: 53 Out of 200
+
+Original post: %s Can’t wait to debate my jokes with all of you. https://t.co/pJPtxD3xTs
+Clean post: %s Can’t wait to debate my jokes with all of you. 
+Tweet number: 54 Out of 200
+
+Original post: %s He lived in a van down by the Reddit.
+Clean post: %s He lived in a van down by the Reddit.
+Tweet number: 55 Out of 200
+
+Original post: %s They should turn “The Conners” into a police procedural and kill off one cast member every single week.
+Clean post: %s They should turn “The Conners” into a police procedural and kill off one cast member every single week.
+Tweet number: 56 Out of 200
+
+Original post: %s What if Linus had been right about the Great Pumpkin? Really makes you think.
+Clean post: %s What if Linus had been right about the Great Pumpkin? Really makes you think.
+Type: PERSON, Value: Linus
+Tweet number: 57 Out of 200
+
+Original post: %s Pizza, except at the edges of the pizza, where there shouldn’t be any more pizza, there’s even more pizza.
+Clean post: %s Pizza, except at the edges of the pizza, where there shouldn’t be any more pizza, there’s even more pizza.
+Tweet number: 58 Out of 200
+
+Original post: %s For purposes of receiving and cashing checks, I am now known as Kanye West. https://t.co/jHIPo2iWpX
+Clean post: %s For purposes of receiving and cashing checks, I am now known as Kanye West. 
+Tweet number: 59 Out of 200
+
+Original post: %s My pacifist friends and I just started a Flight Club.
+Clean post: %s My pacifist friends and I just started a Flight Club.
+Tweet number: 60 Out of 200
+
+Original post: %s Don’t forget to take a break from planning your elaborate Halloween costume to ask yourself how things went this wrong for you.
+Clean post: %s Don’t forget to take a break from planning your elaborate Halloween costume to ask yourself how things went this wrong for you.
+Tweet number: 61 Out of 200
+
+Original post: %s @McNulty_Mike Mike, Crosswalk is the brainchild of the great Ian Karmel. Please send visual proof of your instructor’s beating so we can put this ugly incident behind us as soon as possible.
+Clean post: %s @McNulty_Mike Mike, Crosswalk is the brainchild of the great Ian Karmel. Please send visual proof of your instructor’s beating so we can put this ugly incident behind us as soon as possible.
+Tweet number: 62 Out of 200
+
+Original post: %s An Escape Room where you have to figure out how to get off the phone with my mother.
+Clean post: %s An Escape Room where you have to figure out how to get off the phone with my mother.
+Tweet number: 63 Out of 200
+
+Original post: %s Stupid Twitter joke formats, ranked:
+
+10. You
+9. Can’t
+8. Rank
+7. Them
+6. Because
+5. They’re
+4. All
+3. Equally
+2. Stupid
+1. This one
+Clean post: %s Stupid Twitter joke formats, ranked: 10. You 9. Can’t 8. Rank 7. Them 6. Because 5. They’re 4. All 3. Equally 2. Stupid 1. This one
+Tweet number: 64 Out of 200
+
+Original post: %s Perfect casting. https://t.co/7M4vm787I4
+Clean post: %s Perfect casting. 
+Tweet number: 65 Out of 200
+
+Original post: %s A live TV special where Geraldo Rivera opens the National Enquirer vault.
+Clean post: %s A live TV special where Geraldo Rivera opens the National Enquirer vault.
+Type: PERSON, Value: Geraldo
+Type: PERSON, Value: Rivera
+Tweet number: 66 Out of 200
+
+Original post: %s No act is more symbolic of adult life than the resigned acceptance of a restaurant’s house salad.
+Clean post: %s No act is more symbolic of adult life than the resigned acceptance of a restaurant’s house salad.
+Tweet number: 67 Out of 200
+
+Original post: %s All of this is a direct attack on our nation’s Space Force!
+Clean post: %s All of this is a direct attack on our nation’s Space Force!
+Tweet number: 68 Out of 200
+
+Original post: %s Twitter has become an awful hellscape of hatred and stupidity but it’s still a nice distraction from the awful hellscape of hatred and stupidity that is real life.
+Clean post: %s Twitter has become an awful hellscape of hatred and stupidity but it’s still a nice distraction from the awful hellscape of hatred and stupidity that is real life.
+Tweet number: 69 Out of 200
+
+Original post: %s Huge shout out to people who wear headphones because they don't want to be bothered.
+Clean post: %s Huge shout out to people who wear headphones because they don't want to be bothered.
+Tweet number: 70 Out of 200
+
+Original post: %s Just met a guy named Kevin who I swear looks more like a Steve. Life is a crazy adventure.
+Clean post: %s Just met a guy named Kevin who I swear looks more like a Steve. Life is a crazy adventure.
+Type: PERSON, Value: Kevin
+Tweet number: 71 Out of 200
+
+Original post: %s Pretty sure the first guy who came up with frisbee golf was just throwing it out there.
+Clean post: %s Pretty sure the first guy who came up with frisbee golf was just throwing it out there.
+Tweet number: 72 Out of 200
+
+Original post: %s THESE ARE MY EMOTIONAL SUPPORT TOASTER STRUDELS AND THIS IS MY THERAPY TEQUILA, NOW EXCUSE ME MY MOVIE IS ABOUT TO BEGIN
+Clean post: %s THESE ARE MY EMOTIONAL SUPPORT TOASTER STRUDELS AND THIS IS MY THERAPY TEQUILA, NOW EXCUSE ME MY MOVIE IS ABOUT TO BEGIN
+Tweet number: 73 Out of 200
+
+Original post: %s Fuck you, Tuesday, you god damn Neo-Monday.
+Clean post: %s Fuck you, Tuesday, you god damn Neo-Monday.
+Tweet number: 74 Out of 200
+
+Original post: %s Thank you but your services will not be needed tonight, resealable tab on the Oreos package.
+Clean post: %s Thank you but your services will not be needed tonight, resealable tab on the Oreos package.
+Tweet number: 75 Out of 200
+
+Original post: %s Let’s be honest here. None of those missions have been impossible.
+Clean post: %s Let’s be honest here. None of those missions have been impossible.
+Tweet number: 76 Out of 200
+
+Original post: %s What are the odds! Got the same, talkative Uber driver twice in one week. It’s like being struck by lightning, except worse.
+Clean post: %s What are the odds! Got the same, talkative Uber driver twice in one week. It’s like being struck by lightning, except worse.
+Tweet number: 77 Out of 200
+
+Original post: %s The only secretly-recorded tape that would shock me is one where Trump is caught saying “please” and “thank you.”
+Clean post: %s The only secretly-recorded tape that would shock me is one where Trump is caught saying “please” and “thank you.”
+Type: PERSON, Value: Trump
+Tweet number: 78 Out of 200
+
+Original post: %s This will all be worth it once it’s revealed that Trump is a Sacha Baron Cohen character.
+Clean post: %s This will all be worth it once it’s revealed that Trump is a Sacha Baron Cohen character.
+Type: PERSON, Value: Trump
+Type: PERSON, Value: Sacha
+Type: PERSON, Value: Baron
+Type: PERSON, Value: Cohen
+Tweet number: 79 Out of 200
+
+Original post: %s The World Cup ended just two days ago and I’ve already forgotten soccer exists.
+Clean post: %s The World Cup ended just two days ago and I’ve already forgotten soccer exists.
+Tweet number: 80 Out of 200
+
+Original post: %s Next up, Trump’s summit with Papa John.
+Clean post: %s Next up, Trump’s summit with Papa John.
+Tweet number: 81 Out of 200
+
+Original post: %s Trump really gunning for that Employee of the Month award.
+Clean post: %s Trump really gunning for that Employee of the Month award.
+Type: PERSON, Value: Trump
+Tweet number: 82 Out of 200
+
+Original post: %s And today is the day Elon Musk began working on a time machine.
+Clean post: %s And today is the day Elon Musk began working on a time machine.
+Tweet number: 83 Out of 200
+
+Original post: %s I keep a loaded t-shirt cannon under my pillow in case 13,000 people break into my house.
+Clean post: %s I keep a loaded t-shirt cannon under my pillow in case 13,000 people break into my house.
+Tweet number: 84 Out of 200
+
+Original post: %s Elon Musk now working on a way to save Belgium. #FRABEL
+Clean post: %s Elon Musk now working on a way to save Belgium. #FRABEL
+Type: PERSON, Value: Elon
+Type: PERSON, Value: Musk
+Tweet number: 85 Out of 200
+
+Original post: %s This is my parking level. Not confusing at all. https://t.co/TZhknABF0b
+Clean post: %s This is my parking level. Not confusing at all. 
+Tweet number: 86 Out of 200
+
+Original post: %s Owning a triple-crown winning racehorse looks fun as hell and yet my high school guidance counselor never offered it up as a career choice. WTF!?
+Clean post: %s Owning a triple-crown winning racehorse looks fun as hell and yet my high school guidance counselor never offered it up as a career choice. WTF!?
+Tweet number: 87 Out of 200
+
+Original post: %s Movie idea: Ocean’s 9.
+Clean post: %s Movie idea: Ocean’s 9.
+Tweet number: 88 Out of 200
+
+Original post: %s Life is like a box of chocolates, because both are better with wine. Also, I murdered a guy in El Paso.
+Clean post: %s Life is like a box of chocolates, because both are better with wine. Also, I murdered a guy in El Paso.
+Type: LOCATION, Value: El
+Type: LOCATION, Value: Paso.
+Tweet number: 89 Out of 200
+
+Original post: %s Nailed my milk to cereal ratio just now in case you’re wondering if there are still heroes out there.
+Clean post: %s Nailed my milk to cereal ratio just now in case you’re wondering if there are still heroes out there.
+Tweet number: 90 Out of 200
+
+Original post: %s If I have to wait an hour after eating before getting into the pool, let’s face it, I’m never getting into the pool.
+Clean post: %s If I have to wait an hour after eating before getting into the pool, let’s face it, I’m never getting into the pool.
+Tweet number: 91 Out of 200
+
+Original post: %s @JordanCHubbard  https://t.co/G9b769lhMw
+Clean post: %s @JordanCHubbard 
+Tweet number: 92 Out of 200
+
+Original post: %s RETWEET IF YOU ARE OUTRAGED ABOUT THIS THING, FAVE IF YOU ARE OUTRAGED ABOUT THAT OTHER THING
+Clean post: %s RETWEET IF YOU ARE OUTRAGED ABOUT THIS THING, FAVE IF YOU ARE OUTRAGED ABOUT THAT OTHER THING
+Tweet number: 93 Out of 200
+
+Original post: %s Really need the cast of The Marvelous Mrs. Maisel to not send out any racist tweets, thanks.
+Clean post: %s Really need the cast of The Marvelous Mrs. Maisel to not send out any racist tweets, thanks.
+Type: PERSON, Value: Maisel
+Tweet number: 94 Out of 200
+
+Original post: %s Out of spite, ABC should greenlight a Planet of the Apes sitcom.
+Clean post: %s Out of spite, ABC should greenlight a Planet of the Apes sitcom.
+Type: ORGANIZATION, Value: ABC
+Tweet number: 95 Out of 200
+
+Original post: %s Really looking forward to using the four-day holiday weekend to dig into all these new privacy policy emails. Thanks, Internet.
+Clean post: %s Really looking forward to using the four-day holiday weekend to dig into all these new privacy policy emails. Thanks, Internet.
+Tweet number: 96 Out of 200
+
+Original post: %s CONGRATULATIONS TO MISS NEBRASKA, THE NEW MISS USA. MAY THE STREETS RUN RED WITH THE BLOOD OF IOWANS DURING YOUR JOYOUS REIGN
+Clean post: %s CONGRATULATIONS TO MISS NEBRASKA, THE NEW MISS USA. MAY THE STREETS RUN RED WITH THE BLOOD OF IOWANS DURING YOUR JOYOUS REIGN
+Tweet number: 97 Out of 200
+
+Original post: %s If we all typed THE END maybe Twitter will finally stop.
+Clean post: %s If we all typed THE END maybe Twitter will finally stop.
+Tweet number: 98 Out of 200
+
+Original post: %s Whoever the first person was who woke up one morning and decided to “make the bed” really screwed over humanity.
+Clean post: %s Whoever the first person was who woke up one morning and decided to “make the bed” really screwed over humanity.
+Tweet number: 99 Out of 200
+
+Original post: %s Wanna feel old? That Laurel/Yanny thing was seven years ago.
+Clean post: %s Wanna feel old? That Laurel/Yanny thing was seven years ago.
+Tweet number: 100 Out of 200
+
+Original post: %s Be nice to others. That way, they’ll let their guard down and then you can exploit all their weaknesses later.
+Clean post: %s Be nice to others. That way, they’ll let their guard down and then you can exploit all their weaknesses later.
+Tweet number: 101 Out of 200
+
+Original post: %s Is it weird that my Mom got flowers and a "thank you" card from my therapist?
+Clean post: %s Is it weird that my Mom got flowers and a "thank you" card from my therapist?
+Tweet number: 102 Out of 200
+
+Original post: %s RT @badbanana: It's awful that those other chipmunks force Alvin to wear an A on his sweater just because he's an adulterer.
+Clean post: %s RT @badbanana: It's awful that those other chipmunks force Alvin to wear an A on his sweater just because he's an adulterer.
+Type: PERSON, Value: Alvin
+Tweet number: 103 Out of 200
+
+Original post: %s Time to face a difficult truth. You like the idea of red velvet cupcakes more than you actually like red velvet cupcakes.
+Clean post: %s Time to face a difficult truth. You like the idea of red velvet cupcakes more than you actually like red velvet cupcakes.
+Tweet number: 104 Out of 200
+
+Original post: %s In an effort to use my social media influence for good, I urge everyone who reads this to please stop putting fucking nuts in brownies.
+Clean post: %s In an effort to use my social media influence for good, I urge everyone who reads this to please stop putting fucking nuts in brownies.
+Tweet number: 105 Out of 200
+
+Original post: %s Thanos 2020
+Clean post: %s Thanos 2020
+Tweet number: 106 Out of 200
+
+Original post: %s Pretty sure that’s called a “movie.” https://t.co/LM6f3Aqquj
+Clean post: %s Pretty sure that’s called a “movie.” 
+Tweet number: 107 Out of 200
+
+Original post: %s RT @badbanana: I've said it before. If Clifford was a Big Red Cat, everyone would be dead.
+Clean post: %s RT @badbanana: I've said it before. If Clifford was a Big Red Cat, everyone would be dead.
+Type: PERSON, Value: Clifford
+Tweet number: 108 Out of 200
+
+Original post: %s Shout out to the prankster who convinced James Cameron that people want to see five more Avatar movies.
+Clean post: %s Shout out to the prankster who convinced James Cameron that people want to see five more Avatar movies.
+Type: PERSON, Value: James
+Type: PERSON, Value: Cameron
+Tweet number: 109 Out of 200
+
+Original post: %s Way ahead of you guys on not eating romaine lettuce.
+Clean post: %s Way ahead of you guys on not eating romaine lettuce.
+Tweet number: 110 Out of 200
+
+Original post: %s Fully expect the Art Bell autopsy report to say he died of old age in 1937.
+Clean post: %s Fully expect the Art Bell autopsy report to say he died of old age in 1937.
+Type: ORGANIZATION, Value: Art
+Type: ORGANIZATION, Value: Bell
+Tweet number: 111 Out of 200
+
+Original post: %s If there isn’t a picture of Frank Sinatra on the wall, how am I supposed to know if this is an Italian restaurant?
+Clean post: %s If there isn’t a picture of Frank Sinatra on the wall, how am I supposed to know if this is an Italian restaurant?
+Type: PERSON, Value: Frank
+Type: PERSON, Value: Sinatra
+Tweet number: 112 Out of 200
+
+Original post: %s If nothing else, we should impeach him for ruining Twitter.
+Clean post: %s If nothing else, we should impeach him for ruining Twitter.
+Tweet number: 113 Out of 200
+
+Original post: %s Precisely why I always drink two or more. https://t.co/178DTdYquE
+Clean post: %s Precisely why I always drink two or more. 
+Tweet number: 114 Out of 200
+
+Original post: %s Fun idea: Tricking young people into reading Shakespearean sonnets by formatting them as American Chopper argument memes.
+Clean post: %s Fun idea: Tricking young people into reading Shakespearean sonnets by formatting them as American Chopper argument memes.
+Tweet number: 115 Out of 200
+
+Original post: %s Offer declined, thank you. https://t.co/wbZt0SHwRY
+Clean post: %s Offer declined, thank you. 
+Tweet number: 116 Out of 200
+
+Original post: %s Pitch: A Dharma &amp; Greg reboot, except now they’re both huge Ted Cruz supporters.
+Clean post: %s Pitch: A Dharma and Greg reboot, except now they’re both huge Tetra Cruz supporters.
+Type: PERSON, Value: Greg
+Type: PERSON, Value: reboot,
+Type: PERSON, Value: Ted
+Type: PERSON, Value: Cruz
+Tweet number: 117 Out of 200
+
+Original post: %s @benrector Actual audio and it went for a solid two minutes before I started filming.
+Clean post: %s @benrector Actual audio and it went for a solid two minutes before I started filming.
+Tweet number: 118 Out of 200
+
+Original post: %s Dude https://t.co/L2eqotYXXZ
+Clean post: %s Dude 
+Tweet number: 119 Out of 200
+
+Original post: %s &lt; puts on VR headset, enters the Ready Player One world as Andy Rooney, begins complaining to everyone about self-adhesive envelopes &gt;
+Clean post: %s &lt; puts on VR headset, enters the Ready Player One world as Andy Rooney, begins complaining to everyone about self-adhesive envelopes &gt;
+Type: PERSON, Value: Andy
+Tweet number: 120 Out of 200
+
+Original post: %s BIDEN vs TRUMP https://t.co/O4dAkhJla5
+Clean post: %s BIDEN vs TRUMP 
+Type: PERSON, Value: BIDEN
+Tweet number: 121 Out of 200
+
+Original post: %s We are five years away from the Thunderdome being a fourth, co-equal branch of government.
+Clean post: %s We are five years away from the Thunderdome being a fourth, co-equal branch of government.
+Tweet number: 122 Out of 200
+
+Original post: %s That back tattoo photo isn’t even in the top five worst things Ben Affleck has appeared in.
+Clean post: %s That back tattoo photo isn’t even in the top five worst things Ben Affleck has appeared in.
+Type: PERSON, Value: Ben
+Type: PERSON, Value: Affleck
+Tweet number: 123 Out of 200
+
+Original post: %s A Pacific Rim crossover with The Shape of Water and I think you know where I’m going with this.
+Clean post: %s A Pacific Rim crossover with The Shape of Water and I think you know where I’m going with this.
+Type: LOCATION, Value: Pacific
+Type: LOCATION, Value: Rim
+Tweet number: 124 Out of 200
+
+Original post: %s Yes, Facebook is evil but until there’s a better way to know when internet strangers are having a birthday, there’s nothing we can do.
+Clean post: %s Yes, Facebook is evil but until there’s a better way to know when internet strangers are having a birthday, there’s nothing we can do.
+Type: ORGANIZATION, Value: Facebook
+Tweet number: 125 Out of 200
+
+Original post: %s RT @badbanana: At the last minute, the judge should jack up Martin Shkreli's prison sentence 4,000 percent.
+Clean post: %s RT @badbanana: At the last minute, the judge should jack up Martin Shkreli's prison sentence 4,000 percent.
+Type: PERSON, Value: Martin
+Tweet number: 126 Out of 200
+
+Original post: %s RT @badbanana: Reality show idea: "So You Think You Can Touch Mike Tyson's Nose." Hidden camera. Tyson isn't in on it.
+Clean post: %s RT @badbanana: Reality show idea: "So You Think You Can Touch Mike Tyson's Nose." Hidden camera. Tyson isn't in on it.
+Tweet number: 127 Out of 200
+
+Original post: %s Delta Airlines cuts ties with NRA. Listen, I want change as much as the next guy, but forcing the NRA to fly United just seems cruel.
+Clean post: %s Delta Airlines cuts ties with NRA. Listen, I want change as much as the next guy, but forcing the NRA to fly United just seems cruel.
+Type: ORGANIZATION, Value: Delta
+Type: ORGANIZATION, Value: Airlines
+Type: ORGANIZATION, Value: NRA
+Type: ORGANIZATION, Value: United
+Tweet number: 128 Out of 200
+
+Original post: %s Would it kill these ice dancers to skate to a little Smash Mouth? #AllStar #Ad #SponsoredTweet #PaidForBySmashMouth
+Clean post: %s Would it kill these ice dancers to skate to a little Smash Mouth? #AllStar #Ad #SponsoredTweet #PaidForBySmashMouth
+Tweet number: 129 Out of 200
+
+Original post: %s Fergie wasn’t singing. She was delivering a precise audible code to awaken the other Black Eyed Peas from their cryogenic slumber. This is not a drill.
+Clean post: %s Fergie wasn’t singing. She was delivering a precise audible code to awaken the other Black Eyed Peas from their cryogenic slumber. This is not a drill.
+Type: PERSON, Value: Fergie
+Tweet number: 130 Out of 200
+
+Original post: %s Torn. I hate the thought of a stroke, but I love the smell of burnt toast.
+Clean post: %s Torn. I hate the thought of a stroke, but I love the smell of burnt toast.
+Tweet number: 131 Out of 200
+
+Original post: %s Every single person on the planet is ten days of dedicated practice away from being a medalist in curling.
+Clean post: %s Every single person on the planet is ten days of dedicated practice away from being a medalist in curling.
+Tweet number: 132 Out of 200
+
+Original post: %s Would it be weird if the music I do my ice dancing routine to is just a low voice slowly repeating the home addresses of all the judges?
+Clean post: %s Would it be weird if the music I do my ice dancing routine to is just a low voice slowly repeating the home addresses of all the judges?
+Tweet number: 133 Out of 200
+
+Original post: %s I like the Winter Olympics because I feel like if you got me drunk enough and pushed me down a mountain I might accidentally win a medal.
+Clean post: %s I like the Winter Olympics because I feel like if you got me drunk enough and pushed me down a mountain I might accidentally win a medal.
+Tweet number: 134 Out of 200
+
+Original post: %s Still time to break up before Valentine’s Day.
+Clean post: %s Still time to break up before Valentine’s Day.
+Tweet number: 135 Out of 200
+
+Original post: %s Idea: A Las Vegas hotel where you can avoid Cirque du Soleil.
+Clean post: %s Idea: A Las Vegas hotel where you can avoid Cirque du Soleil.
+Type: LOCATION, Value: Las
+Type: LOCATION, Value: Vegas
+Type: PERSON, Value: Cirque
+Tweet number: 136 Out of 200
+
+Original post: %s I have a few thousand follow up questions for Quincy Jones.
+Clean post: %s I have a few thousand follow up questions for Quincy Jones.
+Type: PERSON, Value: Quincy
+Type: PERSON, Value: Jones.
+Tweet number: 137 Out of 200
+
+Original post: %s WANT https://t.co/4gXBnGqbuE
+Clean post: %s WANT 
+Tweet number: 138 Out of 200
+
+Original post: %s They should make Red Hot Chili Peppers Doritos so your stomach can hate the band as much as your ears do.
+Clean post: %s They should make Red Hot Chili Peppers Doritos so your stomach can hate the band as much as your ears do.
+Type: ORGANIZATION, Value: Red
+Type: ORGANIZATION, Value: Hot
+Type: ORGANIZATION, Value: Chili
+Type: ORGANIZATION, Value: Peppers
+Type: ORGANIZATION, Value: Doritos
+Tweet number: 139 Out of 200
+
+Original post: %s I’ve never willingly read a memo and I’m not starting now.
+Clean post: %s I’ve never willingly read a memo and I’m not starting now.
+Tweet number: 140 Out of 200
+
+Original post: %s Your 20s: Passionately arguing about music.
+
+Your 30s: Passionately arguing about movies.
+
+Your 40s: Passionately arguing about brands of antacid.
+Clean post: %s Your 20s: Passionately arguing about music. Your 30s: Passionately arguing about movies. Your 40s: Passionately arguing about brands of antacid.
+Tweet number: 141 Out of 200
+
+Original post: %s My biggest fear is my pizza delivery guy and my Chinese food delivery guy getting together and comparing notes.
+Clean post: %s My biggest fear is my pizza delivery guy and my Chinese food delivery guy getting together and comparing notes.
+Tweet number: 142 Out of 200
+
+Original post: %s Very excited to announce that while Reba McEntire is playing the new Colonel Sanders I will be playing the new Reba McEntire.
+Clean post: %s Very excited to announce that while Reba McEntire is playing the new Colonel Sardine I will be playing the new Reba McEntire.
+Type: PERSON, Value: Reba
+Type: PERSON, Value: McEntire
+Type: PERSON, Value: Sanders
+Type: PERSON, Value: Reba
+Type: PERSON, Value: McEntire.
+Tweet number: 143 Out of 200
+
+Original post: %s The first rule of Secret Society is you talk and text about Secret Society.
+Clean post: %s The first rule of Secret Society is you talk and text about Secret Society.
+Tweet number: 144 Out of 200
+
+Original post: %s Some see a glass half empty. Others, a glass half full. I just see that someone forgot to put his glass into the dishwasher upside down and we've talked about this, Chad.
+Clean post: %s Some see a glass half empty. Others, a glass half full. I just see that someone forgot to put his glass into the dishwasher upside down and we've talked about this, Chad.
+Tweet number: 145 Out of 200
+
+Original post: %s I’m more of a “get spanked with Businessweek” kind of guy.
+Clean post: %s I’m more of a “get spanked with Businessweek” kind of guy.
+Tweet number: 146 Out of 200
+
+Original post: %s There’s only one way for me to shake this bad mood I’m in. I need to punch a Bitcoin millionaire.
+Clean post: %s There’s only one way for me to shake this bad mood I’m in. I need to punch a Bitcoin millionaire.
+Tweet number: 147 Out of 200
+
+Original post: %s Aloha to the person in charge of sending out emergency alerts in Hawaii. And also, Aloha.
+Clean post: %s Aloha to the person in charge of sending out emergency alerts in Hawaii. And also, Aloha.
+Type: LOCATION, Value: Hawaii.
+Tweet number: 148 Out of 200
+
+Original post: %s Trump isn’t so much politically incorrect as he is everything incorrect.
+Clean post: %s Trump isn’t so much politically incorrect as he is everything incorrect.
+Type: PERSON, Value: Trump
+Tweet number: 149 Out of 200
+
+Original post: %s To be clear, I’m not being racist when I call Council Bluffs, Iowa a shithole.
+Clean post: %s To be clear, I’m not being racist when I call Council Bluffs, Iowa a shithole.
+Type: LOCATION, Value: Iowa
+Tweet number: 150 Out of 200
+
+Original post: %s Two weeks into my new diet and I’ve decided it would be a lot easier for me if everyone else just decided to get fat.
+Clean post: %s Two weeks into my new diet and I’ve decided it would be a lot easier for me if everyone else just decided to get fat.
+Tweet number: 151 Out of 200
+
+Original post: %s Pro tip: Wipe the foam from your mouth before screaming into the void about how stable a genius you are.
+Clean post: %s Pro tip: Wipe the foam from your mouth before screaming into the void about how stable a genius you are.
+Tweet number: 152 Out of 200
+
+Original post: %s I’m calling this photo “America 2018.” I didn’t expect to win a Pulitzer on my way to work today, but there you go. https://t.co/GdJpID2MYv
+Clean post: %s I’m calling this photo “America 2018.” I didn’t expect to win a Pulitzer on my way to work today, but there you go. 
+Tweet number: 153 Out of 200
+
+Original post: %s “Hey, I finally found a domain name that’s available!” https://t.co/7HZjz26cDt
+Clean post: %s “Hey, I finally found a domain name that’s available!” 
+Tweet number: 154 Out of 200
+
+Original post: %s Why not make the entire airplane out of emotional support animals?
+Clean post: %s Why not make the entire airplane out of emotional support animals?
+Tweet number: 155 Out of 200
+
+Original post: %s Happy Pretend It’s The New Year In The Central Time Zone, Too, So I Can Just Go To Bed Now!
+Clean post: %s Happy Pretend It’s The New Year In The Central Time Zone, Too, So I Can Just Go To Bed Now!
+Tweet number: 156 Out of 200
+
+Original post: %s @jilltwiss No joke, I have watched it twice. They destroy the entire room. It’s genius.
+Clean post: %s @jilltwiss No joke, I have watched it twice. They destroy the entire room. It’s genius.
+Tweet number: 157 Out of 200
+
+Original post: %s @stevebyrnelive All Steves, sorry.
+Clean post: %s @stevebyrnelive All Steves, sorry.
+Tweet number: 158 Out of 200
+
+Original post: %s God bless us, everyone (except Steve).
+Clean post: %s God bless us, everyone (except Steve).
+Tweet number: 159 Out of 200
+
+Original post: %s Not gonna lie. I’ve had happier Honda Days.
+Clean post: %s Not gonna lie. I’ve had happier Honda Days.
+Type: ORGANIZATION, Value: Honda
+Tweet number: 160 Out of 200
+
+Original post: %s We’re just going to let Winter Wonderland get away with rhyming blue bird and new bird? That’s cool with everyone?
+Clean post: %s We’re just going to let Winter Wonderland get away with rhyming blue bird and new bird? That’s cool with everyone?
+Type: LOCATION, Value: Winter
+Type: LOCATION, Value: Wonderland
+Tweet number: 161 Out of 200
+
+Original post: %s On Christmas morning, Donald Trump waking up and bragging about being visited by “dozens, if not hundreds” of ghosts.
+Clean post: %s On Christmas morning, Donald Trump waking up and bragging about being visited by “dozens, if not hundreds” of ghosts.
+Type: PERSON, Value: Donald
+Type: PERSON, Value: Trump
+Tweet number: 162 Out of 200
+
+Original post: %s Not true, Little Drummer Boy. You could have given the baby your drum.
+Clean post: %s Not true, Little Drummer Boy. You could have given the baby your drum.
+Tweet number: 163 Out of 200
+
+Original post: %s (SPOILER ALERT) In 100 years, nobody will remember you.
+Clean post: %s (SPOILER ALERT) In 100 years, nobody will remember you.
+Tweet number: 164 Out of 200
+
+Original post: %s My favorite Christmas song is whatever plays immediately after Feliz Navidad.
+Clean post: %s My favorite Christmas song is whatever plays immediately after Feliz Navidad.
+Type: PERSON, Value: Feliz
+Type: PERSON, Value: Navidad.
+Tweet number: 165 Out of 200
+
+Original post: %s Over the last fifteen years, automatic paper towel dispensers have improved so dramatically they almost work sometimes.
+Clean post: %s Over the last fifteen years, automatic paper towel dispensers have improved so dramatically they almost work sometimes.
+Tweet number: 166 Out of 200
+
+Original post: %s In retrospect, I probably should have become George Clooney’s best friend. That’s on me. https://t.co/dXTR6m6Irm
+Clean post: %s In retrospect, I probably should have become George Clooney’s best friend. That’s on me. 
+Tweet number: 167 Out of 200
+
+Original post: %s How would anyone know if Steve Bannon slipped into a post-election depression and started to let himself go?
+Clean post: %s How would anyone know if Steve Bannon slipped into a post-election depression and started to let himself go?
+Type: PERSON, Value: Steve
+Type: PERSON, Value: Bannon
+Tweet number: 168 Out of 200
+
+Original post: %s Praying for Franklin Graham. https://t.co/QSWsX5biGm
+Clean post: %s Praying for Franklin Graham. 
+Type: ORGANIZATION, Value: Franklin
+Tweet number: 169 Out of 200
+
+Original post: %s Roy Moore stepping away from politics to spend more time with his wife and your kids.
+Clean post: %s Roy Moore stepping away from politics to spend more time with his wife and your kids.
+Type: PERSON, Value: Roy
+Type: PERSON, Value: Moore
+Tweet number: 170 Out of 200
+
+Original post: %s The message of that Rudolph special is to just be yourself. Unless you're too weird, in which case we'll violently pull out all of your teeth.
+Clean post: %s The message of that Rudolph special is to just be yourself. Unless you're too weird, in which case we'll violently pull out all of your teeth.
+Type: PERSON, Value: Rudolph
+Tweet number: 171 Out of 200
+
+Original post: %s If you listen very closely to The Little Drummer Boy you can actually hear the three wise men rolling their eyes.
+Clean post: %s If you listen very closely to The Little Drummer Boy you can actually hear the three wise men rolling their eyes.
+Tweet number: 172 Out of 200
+
+Original post: %s Gonna spend the weekend binge-watching the Domino's Pizza Tracker.
+Clean post: %s Gonna spend the weekend binge-watching the Domino's Pizza Tracker.
+Tweet number: 173 Out of 200
+
+Original post: %s Sorry I haven’t tweeted in a while but for a while there I was emotionally stable.
+Clean post: %s Sorry I haven’t tweeted in a while but for a while there I was emotionally stable.
+Tweet number: 174 Out of 200
+
+Original post: %s I like to be photographed with a Supermoon because it makes me look thinner.
+Clean post: %s I like to be photographed with a Supermoon because it makes me look thinner.
+Tweet number: 175 Out of 200
+
+Original post: %s Fair warning: I will stand up and object to your marriage if your wedding hashtag is too cutesy.
+Clean post: %s Fair warning: I will stand up and object to your marriage if your wedding hashtag is too cutesy.
+Tweet number: 176 Out of 200
+
+Original post: %s It might be time for Twitter to delete Twitter.
+Clean post: %s It might be time for Twitter to delete Twitter.
+Tweet number: 177 Out of 200
+
+Original post: %s Arby’s is buying Buffalo Wild Wings? Your Christmas dinner meal planning just got a whole lot easier, recently divorced dads.
+Clean post: %s Arby’s is buying Buffalo Wild Wings? Your Christmas dinner meal planning just got a whole lot easier, recently divorced dads.
+Tweet number: 178 Out of 200
+
+Original post: %s Not a good sign that the pilot of this plane has an emotional support dog.
+Clean post: %s Not a good sign that the pilot of this plane has an emotional support dog.
+Tweet number: 179 Out of 200
+
+Original post: %s “SURPRISE! Happy birthday!”
+
+“Uh, my birthday isn’t for another three months.”
+
+“What part of ‘surprise’ do you not understand?”
+Clean post: %s “SURPRISE! Happy birthday!” “Uh, my birthday isn’t for another three months.” “What part of ‘surprise’ do you not understand?”
+Tweet number: 180 Out of 200
+
+Original post: %s Not a single obituary mentions Charles Manson’s beautiful singing voice.
+Clean post: %s Not a single obituary mentions Charles Manson’s beautiful singing voice.
+Type: PERSON, Value: Charles
+Tweet number: 181 Out of 200
+
+Original post: %s Now that Charles Manson is dead, the most evil person in America is the guy who invented resort fees for hotels.
+Clean post: %s Now that Charles Manson is dead, the most evil person in America is the guy who invented resort fees for hotels.
+Type: PERSON, Value: Charles
+Type: PERSON, Value: Manson
+Type: LOCATION, Value: America
+Tweet number: 182 Out of 200
+
+Original post: %s The greatest trick the devil ever pulled was making Twitter so simple even a barely literate 71-year-old could master it.
+Clean post: %s The greatest trick the devil ever pulled was making Twitter so simple even a barely literate 71-year-old could master it.
+Type: ORGANIZATION, Value: Twitter
+Tweet number: 183 Out of 200
+
+Original post: %s If you wanted to name your boat after a 1980s R&amp;B group, you can’t go wrong with DeBarge.
+Clean post: %s If you wanted to name your boat after a 1980s RandB group, you can’t go wrong with DeBarge.
+Tweet number: 184 Out of 200
+
+Original post: %s Wanna feel old? That guy you knew from that thing is even older now!
+Clean post: %s Wanna feel old? That guy you knew from that thing is even older now!
+Tweet number: 185 Out of 200
+
+Original post: %s [ open twitter, instantly hate humanity a teensy bit more, close twitter, repeat fifty times a day for the rest of our lives, apparently ]
+Clean post: %s [ open twitter, instantly hate humanity a teensy bit more, close twitter, repeat fifty times a day for the rest of our lives, apparently ]
+Tweet number: 186 Out of 200
+
+Original post: %s Not sure how to pronounce the second word of this Thor sequel. https://t.co/QC0AOouIG3
+Clean post: %s Not sure how to pronounce the second word of this Thor sequel. 
+Tweet number: 187 Out of 200
+
+Original post: %s Looks like Christopher Plummer will be getting the 11pm slot at the Comedy Cellar tonight.
+Clean post: %s Looks like Christopher Plummer will be getting the 11pm slot at the Comedy Cellar tonight.
+Type: PERSON, Value: Christopher
+Type: PERSON, Value: Plummer
+Tweet number: 188 Out of 200
+
+Original post: %s Autumn is the best season if for no other reason than sweaters are very forgiving.
+Clean post: %s Autumn is the best season if for no other reason than sweaters are very forgiving.
+Tweet number: 189 Out of 200
+
+Original post: %s The only good thing about 280 characters is that I now have a visual cue for which tweets to automatically skip.
+Clean post: %s The only good thing about 280 characters is that I now have a visual cue for which tweets to automatically skip.
+Tweet number: 190 Out of 200
+
+Original post: %s If I wanted to hear what anyone had to say in more than 140 characters I’d go outside and interact with real people. NO THANK YOU.
+Clean post: %s If I wanted to hear what anyone had to say in more than 140 characters I’d go outside and interact with real people. NO THANK YOU.
+Tweet number: 191 Out of 200
+
+Original post: %s Fuck every single one of these additional 140 characters.
+Clean post: %s Fuck every single one of these additional 140 characters.
+Tweet number: 192 Out of 200
+
+Original post: %s maybe don’t put the spigot there tho https://t.co/7mI8xCWbMh
+Clean post: %s maybe don’t put the spigot there tho 
+Tweet number: 193 Out of 200
+
+Original post: %s Guy behind me at the movie concession stand just ordered a “sausage baguette and a glass of Chardonnay.” Please send drone strike.
+Clean post: %s Guy behind me at the movie concession stand just ordered a “sausage baguette and a glass of Chardonnay.” Please send drone strike.
+Tweet number: 194 Out of 200
+
+Original post: %s Couldn’t get out of Vietnam this time? https://t.co/doiEgNpG9A
+Clean post: %s Couldn’t get out of Vietnam this time? 
+Type: LOCATION, Value: Vietnam
+Tweet number: 195 Out of 200
+
+Original post: %s Billion dollar holiday movie idea: “Murder on the Polar Express.”
+Clean post: %s Billion dollar holiday movie idea: “Murder on the Polar Express.”
+Tweet number: 196 Out of 200
+
+Original post: %s I feel like I would thrive in the Upside Down.
+Clean post: %s I feel like I would thrive in the Upside Down.
+Tweet number: 197 Out of 200
+
+Original post: %s It’s Friday, which means it’s almost the weekend, which means we’re marching methodically towards death, but don’t focus on that last part!
+Clean post: %s It’s Friday, which means it’s almost the weekend, which means we’re marching methodically towards death, but don’t focus on that last part!
+Tweet number: 198 Out of 200
+
+Original post: %s So basically.... T-Mobile is holding hurricane relief money hostage unless someone hits a home run?
+Clean post: %s So basically.... T-Mobile is holding hurricane relief money hostage unless someone hits a home run?
+Tweet number: 199 Out of 200
+
+Original post: %s Congratulations to the 1991 Macintosh Classic II that designed this year’s World Series arm patch.
+Clean post: %s Congratulations to the 1991 Macintosh Classic II that designed this year’s World Series arm patch.
+****** SPACY ******
+Tweet number: 0 Out of 200
+
+Original post: %s Please call it ‘Thor Fhor.’ https://t.co/L8gfAHQNLP
+Clean post: %s Please call it ‘Thor Fhor.’ 
+Type: PERSON, Value: Thor Fhor
+Tweet number: 1 Out of 200
+
+Original post: %s Every single character voiced by Adam Sandler. There, I fixed The Lion King for you.
+Clean post: %s Every single character voiced by Adam Sandler. There, I fixed The Lion King for you.
+Type: PERSON, Value: Adam Sandler
+Type: WORK_OF_ART, Value: The Lion King
+Tweet number: 2 Out of 200
+
+Original post: %s Every item of clothing looks like it came from the Lost and Found box. https://t.co/FQwWnkB771
+Clean post: %s Every item of clothing looks like it came from the Lost and Found box. 
+Type: ORG, Value: Found
+Tweet number: 3 Out of 200
+
+Original post: %s Spent the whole day at the beach, but forgot to take a picture to post on Instagram. So that was a waste of time.
+Clean post: %s Spent the whole day at the beach, but forgot to take a picture to post on Instagram. So that was a waste of time.
+Type: DATE, Value: the whole day
+Type: GPE, Value: Instagram
+Tweet number: 4 Out of 200
+
+Original post: %s Pretty weird for Mueller to end his press conference by telling everyone to go see John Wick 3.
+Clean post: %s Pretty weird for Mueller to end his press conference by telling everyone to go see John Wick 3.
+Type: PERSON, Value: Mueller
+Type: PERSON, Value: John Wick 3
+Tweet number: 5 Out of 200
+
+Original post: %s Turns out the Iron Throne was inside all of us, all along.
+Clean post: %s Turns out the Iron Throne was inside all of us, all along.
+Tweet number: 6 Out of 200
+
+Original post: %s The Starbucks cup just reinforces my theory that Game of Thrones takes place in modern-day Canada.
+Clean post: %s The Starbucks cup just reinforces my theory that Game of Thrones takes place in modern-day Canada.
+Type: ORG, Value: Starbucks
+Type: ORG, Value: Game of Thrones
+Type: DATE, Value: modern-day
+Type: GPE, Value: Canada
+Tweet number: 7 Out of 200
+
+Original post: %s As a kid, I way overestimated how much of my adult life would be spent in karate fights.
+Clean post: %s As a kid, I way overestimated how much of my adult life would be spent in karate fights.
+Tweet number: 8 Out of 200
+
+Original post: %s A Hawkeye standalone movie that takes place immediately after “Avengers: Endgame,” where he just goes around picking up all his arrows.
+Clean post: %s A Hawkeye standalone movie that takes place immediately after “Avengers: Endgame,” where he just goes around picking up all his arrows.
+Type: ORG, Value: Hawkeye
+Type: PERSON, Value: Endgame
+Tweet number: 9 Out of 200
+
+Original post: %s I spend every minute of every social interaction frantically searching for the conversation exit ramp.
+Clean post: %s I spend every minute of every social interaction frantically searching for the conversation exit ramp.
+Type: TIME, Value: every minute
+Tweet number: 10 Out of 200
+
+Original post: %s Tiger Woods has already done the impossible. He made me get up early to watch golf.
+Clean post: %s Tiger Woods has already done the impossible. He made me get up early to watch golf.
+Type: PERSON, Value: Tiger Woods
+Tweet number: 11 Out of 200
+
+Original post: %s Fingers crossed this new Star Wars movie finally brings closure to the whole issue of trade route taxation.
+Clean post: %s Fingers crossed this new Star Wars movie finally brings closure to the whole issue of trade route taxation.
+Tweet number: 12 Out of 200
+
+Original post: %s I will withhold judgment until we hear from Carmen Electra. https://t.co/ATJEsfOwP6
+Clean post: %s I will withhold judgment until we hear from Carmen Electra. 
+Tweet number: 13 Out of 200
+
+Original post: %s Scientists unveil first image of Twitter. https://t.co/fnUFB1Og0v
+Clean post: %s Scientists unveil first image of Twitter. 
+Type: ORDINAL, Value: first
+Type: GPE, Value: Twitter
+Tweet number: 14 Out of 200
+
+Original post: %s wtf, mueller report also says barbra streisand made some good points!?
+Clean post: %s wtf, mueller report also says barbra streisand made some good points!?
+Tweet number: 15 Out of 200
+
+Original post: %s You know you’ve planned your Saturday properly when you can squeeze in a second nap.
+Clean post: %s You know you’ve planned your Saturday properly when you can squeeze in a second nap.
+Type: DATE, Value: Saturday
+Type: ORDINAL, Value: second
+Tweet number: 16 Out of 200
+
+Original post: %s what if the final page of the mueller report is a perfect march madness bracket
+Clean post: %s what if the final page of the mueller report is a perfect march madness bracket
+Tweet number: 17 Out of 200
+
+Original post: %s I feel like Beto O’Rourke understands me. I, too, have only one good shirt.
+Clean post: %s I feel like Beto O’Rourke understands me. I, too, have only one good shirt.
+Type: PERSON, Value: Beto O’Rourke
+Tweet number: 18 Out of 200
+
+Original post: %s So add “unwilling to bribe colleges” to the many ways my parents failed me.
+Clean post: %s So add “unwilling to bribe colleges” to the many ways my parents failed me.
+Tweet number: 19 Out of 200
+
+Original post: %s In the future, everyone will be White House communications director for 15 minutes.
+Clean post: %s In the future, everyone will be White House communications director for 15 minutes.
+Type: ORG, Value: White House
+Type: TIME, Value: 15 minutes
+Tweet number: 20 Out of 200
+
+Original post: %s Giving up Twitter for Lent. I will still read tweets and respond when necessary. And I'll be checking my DMs. And posting from time to time. Other than that, totally giving up Twitter. 
+
+I'll check in tomorrow and tell you how it's going.
+Clean post: %s Giving up Twitter for Lent. I will still read tweets and respond when necessary. And I'll be checking my DMs. And posting from time to time. Other than that, totally giving up Twitter. I'll check in tomorrow and tell you how it's going.
+Type: GPE, Value: Twitter
+Type: DATE, Value: tomorrow
+Tweet number: 21 Out of 200
+
+Original post: %s Turns out this Robert Kraft story didn’t have a happy ending.
+Clean post: %s Turns out this Robert Kraft story didn’t have a happy ending.
+Type: PERSON, Value: Robert Kraft
+Tweet number: 22 Out of 200
+
+Original post: %s If you don’t win The Masked Singer, you should be doomed to forevermore walk the face of the earth in your costume, as a warning to all.
+Clean post: %s If you don’t win The Masked Singer, you should be doomed to forevermore walk the face of the earth in your costume, as a warning to all.
+Type: WORK_OF_ART, Value: The Masked Singer
+Tweet number: 23 Out of 200
+
+Original post: %s It's not happening, Fitbit. Take the hint.
+Clean post: %s It's not happening, Fitbit. Take the hint.
+Type: ORG, Value: Fitbit
+Tweet number: 24 Out of 200
+
+Original post: %s Same https://t.co/4n5DZlUDPd
+Clean post: %s Same 
+Tweet number: 25 Out of 200
+
+Original post: %s Avatar director James Cameron... https://t.co/vSvepHeIOG
+Clean post: %s Avatar director James Cameron... 
+Type: PERSON, Value: James Cameron
+Tweet number: 26 Out of 200
+
+Original post: %s Sorry, but none of you are sparking joy right now.
+Clean post: %s Sorry, but none of you are sparking joy right now.
+Tweet number: 27 Out of 200
+
+Original post: %s Heading into the weekend like https://t.co/NlKKz8PjfT
+Clean post: %s Heading into the weekend like 
+Type: DATE, Value: the weekend
+Tweet number: 28 Out of 200
+
+Original post: %s The important thing is we’re all having no fun. #SuperBowl
+Clean post: %s The important thing is we’re all having no fun. #SuperBowl
+Type: MONEY, Value: SuperBowl
+Tweet number: 29 Out of 200
+
+Original post: %s These punts are fantastic.
+Clean post: %s These punts are fantastic.
+Tweet number: 30 Out of 200
+
+Original post: %s The Rams will beat the Patriots 877-531 or I don't know football.
+Clean post: %s The Rams will beat the Patriots 877-531 or I don't know football.
+Type: ORG, Value: Rams
+Type: ORG, Value: Patriots
+Tweet number: 31 Out of 200
+
+Original post: %s Nice try, moon. Still not looking up from my phone.
+Clean post: %s Nice try, moon. Still not looking up from my phone.
+Tweet number: 32 Out of 200
+
+Original post: %s Fully expect Trump’s “major announcement” tomorrow to be the return of Endless Shrimp at Red Lobster.
+Clean post: %s Fully expect Trump’s “major announcement” tomorrow to be the return of Endless Shrimp at Red Lobster.
+Type: ORG, Value: Trump
+Type: DATE, Value: tomorrow
+Type: PERSON, Value: Shrimp
+Type: FAC, Value: Red Lobster
+Tweet number: 33 Out of 200
+
+Original post: %s Wish granted. https://t.co/YOZz20SwKW
+Clean post: %s Wish granted. 
+Tweet number: 34 Out of 200
+
+Original post: %s &lt; johnny cash’s version of “hurt” begins playing &gt; https://t.co/2cW6foI3LG
+Clean post: %s &lt; johnny cash’s version of “hurt” begins playing &gt; 
+Type: ORG, Value: &gt
+Tweet number: 35 Out of 200
+
+Original post: %s Watch how smoothly I transition from Christmas candy to Valentine’s Day candy.
+Clean post: %s Watch how smoothly I transition from Christmas candy to Valentine’s Day candy.
+Type: DATE, Value: Christmas
+Type: PERSON, Value: Valentine
+Tweet number: 36 Out of 200
+
+Original post: %s Let me be the very first to wish you and your family a happy and healthy 2023.
+Clean post: %s Let me be the very first to wish you and your family a happy and healthy 2023.
+Type: ORDINAL, Value: first
+Type: DATE, Value: 2023
+Tweet number: 37 Out of 200
+
+Original post: %s Fuck it, my 2019 begins NOW.
+Clean post: %s Fuck it, my 2019 begins NOW.
+Type: DATE, Value: 2019
+Type: ORG, Value: NOW
+Tweet number: 38 Out of 200
+
+Original post: %s Just convinced myself that it would be disrespectful to work out during a government shutdown.
+Clean post: %s Just convinced myself that it would be disrespectful to work out during a government shutdown.
+Tweet number: 39 Out of 200
+
+Original post: %s It’s not Christmas until I see Snoopy eating 37 human femurs. https://t.co/4MuYoaACCw
+Clean post: %s It’s not Christmas until I see Snoopy eating 37 human femurs. 
+Type: DATE, Value: Christmas
+Type: PERSON, Value: Snoopy
+Type: CARDINAL, Value: 37
+Tweet number: 40 Out of 200
+
+Original post: %s Would hate to be the staffer who has to explain to Trump why he can’t replace Mattis with The General from those insurance ads.
+Clean post: %s Would hate to be the staffer who has to explain to Trump why he can’t replace Mahi-mahi with The General from those insurance ads.
+Type: ORG, Value: Trump
+Type: PERSON, Value: Mattis
+Tweet number: 41 Out of 200
+
+Original post: %s Baby, It’s Cold Outside But Not As Cold As It Should Be Because Temperatures Are Steadily Rising Due To Man-Made Climate Change And Our Leaders Refuse To Do Anything About It So We’re All Gonna Die Soon So Hey We Might As Well Bang
+Clean post: %s Baby, It’s Cold Outside But Not As Cold As It Should Be Because Temperatures Are Steadily Rising Due To Man-Made Climate Change And Our Leaders Refuse To Do Anything About It So We’re All Gonna Die Soon So Hey We Might As Well Bang
+Type: ORG, Value: Baby
+Type: WORK_OF_ART, Value: ’s Cold Outside
+Type: PERSON, Value: Bang
+Tweet number: 42 Out of 200
+
+Original post: %s I feel like it would still be a December to Remember if, instead of a Lexus, you gave someone a sack filled with angry raccoons.
+Clean post: %s I feel like it would still be a December to Remember if, instead of a Lexus, you gave someone a sack filled with angry raccoons.
+Type: DATE, Value: December
+Type: ORG, Value: Lexus
+Tweet number: 43 Out of 200
+
+Original post: %s Fun airport activity: 1) Listen to a business person loudly close a deal over the phone, 2) Remember as many details as possible, 3) Wait, 4) Go stand near that person, 5) Loudly pretend to call the home office and cancel the deal.
+Clean post: %s Fun airport activity: 1) Listen to a business person loudly close a deal over the phone, 2) Remember as many details as possible, 3) Wait, 4) Go stand near that person, 5) Loudly pretend to call the home office and cancel the deal.
+Type: CARDINAL, Value: 1
+Type: CARDINAL, Value: 2
+Type: CARDINAL, Value: 3
+Type: CARDINAL, Value: 4
+Type: CARDINAL, Value: 5
+Type: LOC, Value: Loudly
+Tweet number: 44 Out of 200
+
+Original post: %s Just stared down an emotional support dog to establish B49 gate dominance.
+Clean post: %s Just stared down an emotional support dog to establish B49 gate dominance.
+Tweet number: 45 Out of 200
+
+Original post: %s Waaaaaaaaay ahead of you. https://t.co/fRqJlJaD5g
+Clean post: %s Waaaaaaaaay ahead of you. 
+Type: PERSON, Value: Waaaaaaaaay
+Tweet number: 46 Out of 200
+
+Original post: %s This week, hold your family close and be extra thankful that you didn’t see that new Robin Hood movie.
+Clean post: %s This week, hold your family close and be extra thankful that you didn’t see that new Robin Hood movie.
+Type: DATE, Value: This week
+Type: PERSON, Value: Robin Hood
+Tweet number: 47 Out of 200
+
+Original post: %s I was two. Quit being so stupid, everyone else. https://t.co/eKrnnrwxwK
+Clean post: %s I was two. Quit being so stupid, everyone else. 
+Type: CARDINAL, Value: two
+Tweet number: 48 Out of 200
+
+Original post: %s Well, I did it. I finished reading the entire Internet. Not going to lie, it bogs down a bit in the middle.
+Clean post: %s Well, I did it. I finished reading the entire Internet. Not going to lie, it bogs down a bit in the middle.
+Tweet number: 49 Out of 200
+
+Original post: %s Looking forward to getting these midterm elections out of the way so we can all talk about that new Nutcracker movie.
+Clean post: %s Looking forward to getting these midterm elections out of the way so we can all talk about that new Nutcracker movie.
+Type: ORG, Value: Nutcracker
+Tweet number: 50 Out of 200
+
+Original post: %s Really enjoying this extra hour of existential crisis today.
+Clean post: %s Really enjoying this extra hour of existential crisis today.
+Type: TIME, Value: this extra hour
+Type: DATE, Value: today
+Tweet number: 51 Out of 200
+
+Original post: %s Sorry, but I need at least three more A-list celebrities to tell me to vote before I’ll even consider it.
+Clean post: %s Sorry, but I need at least three more A-list celebrities to tell me to vote before I’ll even consider it.
+Type: CARDINAL, Value: at least three
+Tweet number: 52 Out of 200
+
+Original post: %s Last-minute Halloween idea: go to bed early.
+Clean post: %s Last-minute Halloween idea: go to bed early.
+Type: TIME, Value: Last-minute
+Type: DATE, Value: Halloween
+Tweet number: 53 Out of 200
+
+Original post: %s Can’t wait to debate my jokes with all of you. https://t.co/pJPtxD3xTs
+Clean post: %s Can’t wait to debate my jokes with all of you. 
+Tweet number: 54 Out of 200
+
+Original post: %s He lived in a van down by the Reddit.
+Clean post: %s He lived in a van down by the Reddit.
+Type: ORG, Value: Reddit
+Tweet number: 55 Out of 200
+
+Original post: %s They should turn “The Conners” into a police procedural and kill off one cast member every single week.
+Clean post: %s They should turn “The Conners” into a police procedural and kill off one cast member every single week.
+Type: ORG, Value: Conners
+Type: CARDINAL, Value: one
+Type: DATE, Value: every single week
+Tweet number: 56 Out of 200
+
+Original post: %s What if Linus had been right about the Great Pumpkin? Really makes you think.
+Clean post: %s What if Linus had been right about the Great Pumpkin? Really makes you think.
+Type: ORG, Value: Linus
+Type: FAC, Value: the Great Pumpkin
+Tweet number: 57 Out of 200
+
+Original post: %s Pizza, except at the edges of the pizza, where there shouldn’t be any more pizza, there’s even more pizza.
+Clean post: %s Pizza, except at the edges of the pizza, where there shouldn’t be any more pizza, there’s even more pizza.
+Type: ORG, Value: ’s
+Tweet number: 58 Out of 200
+
+Original post: %s For purposes of receiving and cashing checks, I am now known as Kanye West. https://t.co/jHIPo2iWpX
+Clean post: %s For purposes of receiving and cashing checks, I am now known as Kanye West. 
+Type: LOC, Value: Kanye West
+Tweet number: 59 Out of 200
+
+Original post: %s My pacifist friends and I just started a Flight Club.
+Clean post: %s My pacifist friends and I just started a Flight Club.
+Type: ORG, Value: Flight Club
+Tweet number: 60 Out of 200
+
+Original post: %s Don’t forget to take a break from planning your elaborate Halloween costume to ask yourself how things went this wrong for you.
+Clean post: %s Don’t forget to take a break from planning your elaborate Halloween costume to ask yourself how things went this wrong for you.
+Type: DATE, Value: Halloween
+Tweet number: 61 Out of 200
+
+Original post: %s @McNulty_Mike Mike, Crosswalk is the brainchild of the great Ian Karmel. Please send visual proof of your instructor’s beating so we can put this ugly incident behind us as soon as possible.
+Clean post: %s @McNulty_Mike Mike, Crosswalk is the brainchild of the great Ian Karmel. Please send visual proof of your instructor’s beating so we can put this ugly incident behind us as soon as possible.
+Type: PERSON, Value: Mike
+Type: PERSON, Value: Crosswalk
+Type: PERSON, Value: Ian Karmel
+Tweet number: 62 Out of 200
+
+Original post: %s An Escape Room where you have to figure out how to get off the phone with my mother.
+Clean post: %s An Escape Room where you have to figure out how to get off the phone with my mother.
+Tweet number: 63 Out of 200
+
+Original post: %s Stupid Twitter joke formats, ranked:
+
+10. You
+9. Can’t
+8. Rank
+7. Them
+6. Because
+5. They’re
+4. All
+3. Equally
+2. Stupid
+1. This one
+Clean post: %s Stupid Twitter joke formats, ranked: 10. You 9. Can’t 8. Rank 7. Them 6. Because 5. They’re 4. All 3. Equally 2. Stupid 1. This one
+Type: CARDINAL, Value: 10
+Type: CARDINAL, Value: 9
+Type: CARDINAL, Value: 8
+Type: CARDINAL, Value: 7
+Type: CARDINAL, Value: 6
+Type: CARDINAL, Value: 5
+Type: CARDINAL, Value: 4
+Type: CARDINAL, Value: 3
+Type: CARDINAL, Value: 2
+Type: CARDINAL, Value: 1
+Tweet number: 64 Out of 200
+
+Original post: %s Perfect casting. https://t.co/7M4vm787I4
+Clean post: %s Perfect casting. 
+Tweet number: 65 Out of 200
+
+Original post: %s A live TV special where Geraldo Rivera opens the National Enquirer vault.
+Clean post: %s A live TV special where Geraldo Rivera opens the National Enquirer vault.
+Type: ORG, Value: Geraldo Rivera
+Type: ORG, Value: the National Enquirer
+Tweet number: 66 Out of 200
+
+Original post: %s No act is more symbolic of adult life than the resigned acceptance of a restaurant’s house salad.
+Clean post: %s No act is more symbolic of adult life than the resigned acceptance of a restaurant’s house salad.
+Tweet number: 67 Out of 200
+
+Original post: %s All of this is a direct attack on our nation’s Space Force!
+Clean post: %s All of this is a direct attack on our nation’s Space Force!
+Type: ORG, Value: ’s Space Force
+Tweet number: 68 Out of 200
+
+Original post: %s Twitter has become an awful hellscape of hatred and stupidity but it’s still a nice distraction from the awful hellscape of hatred and stupidity that is real life.
+Clean post: %s Twitter has become an awful hellscape of hatred and stupidity but it’s still a nice distraction from the awful hellscape of hatred and stupidity that is real life.
+Tweet number: 69 Out of 200
+
+Original post: %s Huge shout out to people who wear headphones because they don't want to be bothered.
+Clean post: %s Huge shout out to people who wear headphones because they don't want to be bothered.
+Tweet number: 70 Out of 200
+
+Original post: %s Just met a guy named Kevin who I swear looks more like a Steve. Life is a crazy adventure.
+Clean post: %s Just met a guy named Kevin who I swear looks more like a Steve. Life is a crazy adventure.
+Type: PERSON, Value: Kevin
+Type: PERSON, Value: Steve
+Tweet number: 71 Out of 200
+
+Original post: %s Pretty sure the first guy who came up with frisbee golf was just throwing it out there.
+Clean post: %s Pretty sure the first guy who came up with frisbee golf was just throwing it out there.
+Type: ORDINAL, Value: first
+Tweet number: 72 Out of 200
+
+Original post: %s THESE ARE MY EMOTIONAL SUPPORT TOASTER STRUDELS AND THIS IS MY THERAPY TEQUILA, NOW EXCUSE ME MY MOVIE IS ABOUT TO BEGIN
+Clean post: %s THESE ARE MY EMOTIONAL SUPPORT TOASTER STRUDELS AND THIS IS MY THERAPY TEQUILA, NOW EXCUSE ME MY MOVIE IS ABOUT TO BEGIN
+Tweet number: 73 Out of 200
+
+Original post: %s Fuck you, Tuesday, you god damn Neo-Monday.
+Clean post: %s Fuck you, Tuesday, you god damn Neo-Monday.
+Type: DATE, Value: Tuesday
+Type: PERSON, Value: Neo-Monday
+Tweet number: 74 Out of 200
+
+Original post: %s Thank you but your services will not be needed tonight, resealable tab on the Oreos package.
+Clean post: %s Thank you but your services will not be needed tonight, resealable tab on the Oreos package.
+Type: TIME, Value: tonight
+Type: ORG, Value: Oreos
+Tweet number: 75 Out of 200
+
+Original post: %s Let’s be honest here. None of those missions have been impossible.
+Clean post: %s Let’s be honest here. None of those missions have been impossible.
+Tweet number: 76 Out of 200
+
+Original post: %s What are the odds! Got the same, talkative Uber driver twice in one week. It’s like being struck by lightning, except worse.
+Clean post: %s What are the odds! Got the same, talkative Uber driver twice in one week. It’s like being struck by lightning, except worse.
+Type: PERSON, Value: Uber
+Type: DATE, Value: one week
+Tweet number: 77 Out of 200
+
+Original post: %s The only secretly-recorded tape that would shock me is one where Trump is caught saying “please” and “thank you.”
+Clean post: %s The only secretly-recorded tape that would shock me is one where Trump is caught saying “please” and “thank you.”
+Type: ORG, Value: Trump
+Tweet number: 78 Out of 200
+
+Original post: %s This will all be worth it once it’s revealed that Trump is a Sacha Baron Cohen character.
+Clean post: %s This will all be worth it once it’s revealed that Trump is a Sacha Baron Cohen character.
+Type: ORG, Value: ’s
+Type: ORG, Value: Trump
+Type: PERSON, Value: Cohen
+Tweet number: 79 Out of 200
+
+Original post: %s The World Cup ended just two days ago and I’ve already forgotten soccer exists.
+Clean post: %s The World Cup ended just two days ago and I’ve already forgotten soccer exists.
+Type: EVENT, Value: The World Cup
+Type: DATE, Value: just two days ago
+Tweet number: 80 Out of 200
+
+Original post: %s Next up, Trump’s summit with Papa John.
+Clean post: %s Next up, Trump’s summit with Papa John.
+Type: ORG, Value: Trump’s
+Type: PERSON, Value: Papa John
+Tweet number: 81 Out of 200
+
+Original post: %s Trump really gunning for that Employee of the Month award.
+Clean post: %s Trump really gunning for that Employee of the Month award.
+Type: ORG, Value: Trump
+Type: DATE, Value: the Month award
+Tweet number: 82 Out of 200
+
+Original post: %s And today is the day Elon Musk began working on a time machine.
+Clean post: %s And today is the day Elon Musk began working on a time machine.
+Type: DATE, Value: today
+Type: PERSON, Value: Elon Musk
+Tweet number: 83 Out of 200
+
+Original post: %s I keep a loaded t-shirt cannon under my pillow in case 13,000 people break into my house.
+Clean post: %s I keep a loaded t-shirt cannon under my pillow in case 13,000 people break into my house.
+Type: CARDINAL, Value: 13,000
+Tweet number: 84 Out of 200
+
+Original post: %s Elon Musk now working on a way to save Belgium. #FRABEL
+Clean post: %s Elon Musk now working on a way to save Belgium. #FRABEL
+Type: PERSON, Value: Elon Musk
+Type: GPE, Value: Belgium
+Type: MONEY, Value: #FRABEL
+Tweet number: 85 Out of 200
+
+Original post: %s This is my parking level. Not confusing at all. https://t.co/TZhknABF0b
+Clean post: %s This is my parking level. Not confusing at all. 
+Tweet number: 86 Out of 200
+
+Original post: %s Owning a triple-crown winning racehorse looks fun as hell and yet my high school guidance counselor never offered it up as a career choice. WTF!?
+Clean post: %s Owning a triple-crown winning racehorse looks fun as hell and yet my high school guidance counselor never offered it up as a career choice. WTF!?
+Type: ORG, Value: WTF
+Tweet number: 87 Out of 200
+
+Original post: %s Movie idea: Ocean’s 9.
+Clean post: %s Movie idea: Ocean’s 9.
+Type: FAC, Value: Ocean’s 9
+Tweet number: 88 Out of 200
+
+Original post: %s Life is like a box of chocolates, because both are better with wine. Also, I murdered a guy in El Paso.
+Clean post: %s Life is like a box of chocolates, because both are better with wine. Also, I murdered a guy in El Paso.
+Type: GPE, Value: El Paso
+Tweet number: 89 Out of 200
+
+Original post: %s Nailed my milk to cereal ratio just now in case you’re wondering if there are still heroes out there.
+Clean post: %s Nailed my milk to cereal ratio just now in case you’re wondering if there are still heroes out there.
+Tweet number: 90 Out of 200
+
+Original post: %s If I have to wait an hour after eating before getting into the pool, let’s face it, I’m never getting into the pool.
+Clean post: %s If I have to wait an hour after eating before getting into the pool, let’s face it, I’m never getting into the pool.
+Type: TIME, Value: an hour
+Type: ORG, Value: ’m
+Tweet number: 91 Out of 200
+
+Original post: %s @JordanCHubbard  https://t.co/G9b769lhMw
+Clean post: %s @JordanCHubbard 
+Tweet number: 92 Out of 200
+
+Original post: %s RETWEET IF YOU ARE OUTRAGED ABOUT THIS THING, FAVE IF YOU ARE OUTRAGED ABOUT THAT OTHER THING
+Clean post: %s RETWEET IF YOU ARE OUTRAGED ABOUT THIS THING, FAVE IF YOU ARE OUTRAGED ABOUT THAT OTHER THING
+Tweet number: 93 Out of 200
+
+Original post: %s Really need the cast of The Marvelous Mrs. Maisel to not send out any racist tweets, thanks.
+Clean post: %s Really need the cast of The Marvelous Mrs. Maisel to not send out any racist tweets, thanks.
+Type: PERSON, Value: Maisel
+Tweet number: 94 Out of 200
+
+Original post: %s Out of spite, ABC should greenlight a Planet of the Apes sitcom.
+Clean post: %s Out of spite, ABC should greenlight a Planet of the Apes sitcom.
+Type: ORG, Value: ABC
+Tweet number: 95 Out of 200
+
+Original post: %s Really looking forward to using the four-day holiday weekend to dig into all these new privacy policy emails. Thanks, Internet.
+Clean post: %s Really looking forward to using the four-day holiday weekend to dig into all these new privacy policy emails. Thanks, Internet.
+Type: DATE, Value: four-day holiday weekend
+Tweet number: 96 Out of 200
+
+Original post: %s CONGRATULATIONS TO MISS NEBRASKA, THE NEW MISS USA. MAY THE STREETS RUN RED WITH THE BLOOD OF IOWANS DURING YOUR JOYOUS REIGN
+Clean post: %s CONGRATULATIONS TO MISS NEBRASKA, THE NEW MISS USA. MAY THE STREETS RUN RED WITH THE BLOOD OF IOWANS DURING YOUR JOYOUS REIGN
+Type: ORG, Value: THE NEW MISS USA
+Type: PERSON, Value: JOYOUS REIGN
+Tweet number: 97 Out of 200
+
+Original post: %s If we all typed THE END maybe Twitter will finally stop.
+Clean post: %s If we all typed THE END maybe Twitter will finally stop.
+Type: ORG, Value: END
+Type: GPE, Value: Twitter
+Tweet number: 98 Out of 200
+
+Original post: %s Whoever the first person was who woke up one morning and decided to “make the bed” really screwed over humanity.
+Clean post: %s Whoever the first person was who woke up one morning and decided to “make the bed” really screwed over humanity.
+Type: ORDINAL, Value: first
+Type: TIME, Value: one morning
+Tweet number: 99 Out of 200
+
+Original post: %s Wanna feel old? That Laurel/Yanny thing was seven years ago.
+Clean post: %s Wanna feel old? That Laurel/Yanny thing was seven years ago.
+Type: ORG, Value: Laurel/Yanny
+Type: DATE, Value: seven years ago
+Tweet number: 100 Out of 200
+
+Original post: %s Be nice to others. That way, they’ll let their guard down and then you can exploit all their weaknesses later.
+Clean post: %s Be nice to others. That way, they’ll let their guard down and then you can exploit all their weaknesses later.
+Tweet number: 101 Out of 200
+
+Original post: %s Is it weird that my Mom got flowers and a "thank you" card from my therapist?
+Clean post: %s Is it weird that my Mom got flowers and a "thank you" card from my therapist?
+Tweet number: 102 Out of 200
+
+Original post: %s RT @badbanana: It's awful that those other chipmunks force Alvin to wear an A on his sweater just because he's an adulterer.
+Clean post: %s RT @badbanana: It's awful that those other chipmunks force Alvin to wear an A on his sweater just because he's an adulterer.
+Type: PERSON, Value: Alvin
+Tweet number: 103 Out of 200
+
+Original post: %s Time to face a difficult truth. You like the idea of red velvet cupcakes more than you actually like red velvet cupcakes.
+Clean post: %s Time to face a difficult truth. You like the idea of red velvet cupcakes more than you actually like red velvet cupcakes.
+Type: ORG, Value: Time
+Tweet number: 104 Out of 200
+
+Original post: %s In an effort to use my social media influence for good, I urge everyone who reads this to please stop putting fucking nuts in brownies.
+Clean post: %s In an effort to use my social media influence for good, I urge everyone who reads this to please stop putting fucking nuts in brownies.
+Tweet number: 105 Out of 200
+
+Original post: %s Thanos 2020
+Clean post: %s Thanos 2020
+Type: DATE, Value: 2020
+Tweet number: 106 Out of 200
+
+Original post: %s Pretty sure that’s called a “movie.” https://t.co/LM6f3Aqquj
+Clean post: %s Pretty sure that’s called a “movie.” 
+Type: ORG, Value: ’s
+Tweet number: 107 Out of 200
+
+Original post: %s RT @badbanana: I've said it before. If Clifford was a Big Red Cat, everyone would be dead.
+Clean post: %s RT @badbanana: I've said it before. If Clifford was a Big Red Cat, everyone would be dead.
+Type: PERSON, Value: Clifford
+Tweet number: 108 Out of 200
+
+Original post: %s Shout out to the prankster who convinced James Cameron that people want to see five more Avatar movies.
+Clean post: %s Shout out to the prankster who convinced James Cameron that people want to see five more Avatar movies.
+Type: PERSON, Value: James Cameron
+Type: CARDINAL, Value: five
+Type: GPE, Value: Avatar
+Tweet number: 109 Out of 200
+
+Original post: %s Way ahead of you guys on not eating romaine lettuce.
+Clean post: %s Way ahead of you guys on not eating romaine lettuce.
+Tweet number: 110 Out of 200
+
+Original post: %s Fully expect the Art Bell autopsy report to say he died of old age in 1937.
+Clean post: %s Fully expect the Art Bell autopsy report to say he died of old age in 1937.
+Type: ORG, Value: Art Bell
+Type: DATE, Value: 1937
+Tweet number: 111 Out of 200
+
+Original post: %s If there isn’t a picture of Frank Sinatra on the wall, how am I supposed to know if this is an Italian restaurant?
+Clean post: %s If there isn’t a picture of Frank Sinatra on the wall, how am I supposed to know if this is an Italian restaurant?
+Type: PERSON, Value: Frank Sinatra
+Type: NORP, Value: Italian
+Tweet number: 112 Out of 200
+
+Original post: %s If nothing else, we should impeach him for ruining Twitter.
+Clean post: %s If nothing else, we should impeach him for ruining Twitter.
+Type: LOC, Value: Twitter
+Tweet number: 113 Out of 200
+
+Original post: %s Precisely why I always drink two or more. https://t.co/178DTdYquE
+Clean post: %s Precisely why I always drink two or more. 
+Type: CARDINAL, Value: two
+Tweet number: 114 Out of 200
+
+Original post: %s Fun idea: Tricking young people into reading Shakespearean sonnets by formatting them as American Chopper argument memes.
+Clean post: %s Fun idea: Tricking young people into reading Shakespearean sonnets by formatting them as American Chopper argument memes.
+Type: NORP, Value: Shakespearean
+Type: ORG, Value: American Chopper
+Tweet number: 115 Out of 200
+
+Original post: %s Offer declined, thank you. https://t.co/wbZt0SHwRY
+Clean post: %s Offer declined, thank you. 
+Tweet number: 116 Out of 200
+
+Original post: %s Pitch: A Dharma &amp; Greg reboot, except now they’re both huge Ted Cruz supporters.
+Clean post: %s Pitch: A Dharma and Greg reboot, except now they’re both huge Tetra Cruz supporters.
+Type: ORG, Value: Dharma &amp
+Type: PERSON, Value: Greg
+Type: PERSON, Value: Ted Cruz
+Tweet number: 117 Out of 200
+
+Original post: %s @benrector Actual audio and it went for a solid two minutes before I started filming.
+Clean post: %s @benrector Actual audio and it went for a solid two minutes before I started filming.
+Type: ORG, Value: @benrector Actual
+Type: TIME, Value: two minutes
+Tweet number: 118 Out of 200
+
+Original post: %s Dude https://t.co/L2eqotYXXZ
+Clean post: %s Dude 
+Tweet number: 119 Out of 200
+
+Original post: %s &lt; puts on VR headset, enters the Ready Player One world as Andy Rooney, begins complaining to everyone about self-adhesive envelopes &gt;
+Clean post: %s &lt; puts on VR headset, enters the Ready Player One world as Andy Rooney, begins complaining to everyone about self-adhesive envelopes &gt;
+Type: ORG, Value: VR
+Type: PERSON, Value: Ready Player
+Type: PERSON, Value: Andy Rooney
+Tweet number: 120 Out of 200
+
+Original post: %s BIDEN vs TRUMP https://t.co/O4dAkhJla5
+Clean post: %s BIDEN vs TRUMP 
+Type: ORG, Value: TRUMP
+Tweet number: 121 Out of 200
+
+Original post: %s We are five years away from the Thunderdome being a fourth, co-equal branch of government.
+Clean post: %s We are five years away from the Thunderdome being a fourth, co-equal branch of government.
+Type: DATE, Value: five years
+Type: GPE, Value: Thunderdome
+Type: ORDINAL, Value: fourth
+Tweet number: 122 Out of 200
+
+Original post: %s That back tattoo photo isn’t even in the top five worst things Ben Affleck has appeared in.
+Clean post: %s That back tattoo photo isn’t even in the top five worst things Ben Affleck has appeared in.
+Type: CARDINAL, Value: five
+Type: PERSON, Value: Ben Affleck
+Tweet number: 123 Out of 200
+
+Original post: %s A Pacific Rim crossover with The Shape of Water and I think you know where I’m going with this.
+Clean post: %s A Pacific Rim crossover with The Shape of Water and I think you know where I’m going with this.
+Type: LOC, Value: Pacific Rim
+Type: WORK_OF_ART, Value: The Shape of Water
+Type: PERSON, Value: ’m
+Tweet number: 124 Out of 200
+
+Original post: %s Yes, Facebook is evil but until there’s a better way to know when internet strangers are having a birthday, there’s nothing we can do.
+Clean post: %s Yes, Facebook is evil but until there’s a better way to know when internet strangers are having a birthday, there’s nothing we can do.
+Type: PERSON, Value: Facebook
+Tweet number: 125 Out of 200
+
+Original post: %s RT @badbanana: At the last minute, the judge should jack up Martin Shkreli's prison sentence 4,000 percent.
+Clean post: %s RT @badbanana: At the last minute, the judge should jack up Martin Shkreli's prison sentence 4,000 percent.
+Type: TIME, Value: the last minute
+Type: PERSON, Value: Martin Shkreli's
+Type: PERCENT, Value: 4,000 percent
+Tweet number: 126 Out of 200
+
+Original post: %s RT @badbanana: Reality show idea: "So You Think You Can Touch Mike Tyson's Nose." Hidden camera. Tyson isn't in on it.
+Clean post: %s RT @badbanana: Reality show idea: "So You Think You Can Touch Mike Tyson's Nose." Hidden camera. Tyson isn't in on it.
+Type: PERSON, Value: Mike Tyson's
+Type: PERSON, Value: Nose
+Type: ORG, Value: Tyson
+Tweet number: 127 Out of 200
+
+Original post: %s Delta Airlines cuts ties with NRA. Listen, I want change as much as the next guy, but forcing the NRA to fly United just seems cruel.
+Clean post: %s Delta Airlines cuts ties with NRA. Listen, I want change as much as the next guy, but forcing the NRA to fly United just seems cruel.
+Type: ORG, Value: Delta Airlines
+Type: ORG, Value: NRA
+Type: ORG, Value: NRA
+Type: ORG, Value: United
+Tweet number: 128 Out of 200
+
+Original post: %s Would it kill these ice dancers to skate to a little Smash Mouth? #AllStar #Ad #SponsoredTweet #PaidForBySmashMouth
+Clean post: %s Would it kill these ice dancers to skate to a little Smash Mouth? #AllStar #Ad #SponsoredTweet #PaidForBySmashMouth
+Type: PERSON, Value: Smash Mouth
+Type: MONEY, Value: #AllStar
+Type: ORG, Value: PaidForBySmashMouth
+Tweet number: 129 Out of 200
+
+Original post: %s Fergie wasn’t singing. She was delivering a precise audible code to awaken the other Black Eyed Peas from their cryogenic slumber. This is not a drill.
+Clean post: %s Fergie wasn’t singing. She was delivering a precise audible code to awaken the other Black Eyed Peas from their cryogenic slumber. This is not a drill.
+Type: PERSON, Value: Fergie
+Type: LOC, Value: Black Eyed Peas
+Tweet number: 130 Out of 200
+
+Original post: %s Torn. I hate the thought of a stroke, but I love the smell of burnt toast.
+Clean post: %s Torn. I hate the thought of a stroke, but I love the smell of burnt toast.
+Tweet number: 131 Out of 200
+
+Original post: %s Every single person on the planet is ten days of dedicated practice away from being a medalist in curling.
+Clean post: %s Every single person on the planet is ten days of dedicated practice away from being a medalist in curling.
+Type: DATE, Value: ten days
+Tweet number: 132 Out of 200
+
+Original post: %s Would it be weird if the music I do my ice dancing routine to is just a low voice slowly repeating the home addresses of all the judges?
+Clean post: %s Would it be weird if the music I do my ice dancing routine to is just a low voice slowly repeating the home addresses of all the judges?
+Tweet number: 133 Out of 200
+
+Original post: %s I like the Winter Olympics because I feel like if you got me drunk enough and pushed me down a mountain I might accidentally win a medal.
+Clean post: %s I like the Winter Olympics because I feel like if you got me drunk enough and pushed me down a mountain I might accidentally win a medal.
+Type: EVENT, Value: the Winter Olympics
+Tweet number: 134 Out of 200
+
+Original post: %s Still time to break up before Valentine’s Day.
+Clean post: %s Still time to break up before Valentine’s Day.
+Type: DATE, Value: Valentine’s Day
+Tweet number: 135 Out of 200
+
+Original post: %s Idea: A Las Vegas hotel where you can avoid Cirque du Soleil.
+Clean post: %s Idea: A Las Vegas hotel where you can avoid Cirque du Soleil.
+Type: GPE, Value: Las Vegas
+Type: PERSON, Value: Cirque du Soleil
+Tweet number: 136 Out of 200
+
+Original post: %s I have a few thousand follow up questions for Quincy Jones.
+Clean post: %s I have a few thousand follow up questions for Quincy Jones.
+Type: CARDINAL, Value: a few thousand
+Type: ORG, Value: Quincy Jones
+Tweet number: 137 Out of 200
+
+Original post: %s WANT https://t.co/4gXBnGqbuE
+Clean post: %s WANT 
+Tweet number: 138 Out of 200
+
+Original post: %s They should make Red Hot Chili Peppers Doritos so your stomach can hate the band as much as your ears do.
+Clean post: %s They should make Red Hot Chili Peppers Doritos so your stomach can hate the band as much as your ears do.
+Type: ORG, Value: Red Hot Chili Peppers Doritos
+Tweet number: 139 Out of 200
+
+Original post: %s I’ve never willingly read a memo and I’m not starting now.
+Clean post: %s I’ve never willingly read a memo and I’m not starting now.
+Type: ORG, Value: ’m
+Tweet number: 140 Out of 200
+
+Original post: %s Your 20s: Passionately arguing about music.
+
+Your 30s: Passionately arguing about movies.
+
+Your 40s: Passionately arguing about brands of antacid.
+Clean post: %s Your 20s: Passionately arguing about music. Your 30s: Passionately arguing about movies. Your 40s: Passionately arguing about brands of antacid.
+Type: DATE, Value: 30s
+Type: DATE, Value: 40s
+Tweet number: 141 Out of 200
+
+Original post: %s My biggest fear is my pizza delivery guy and my Chinese food delivery guy getting together and comparing notes.
+Clean post: %s My biggest fear is my pizza delivery guy and my Chinese food delivery guy getting together and comparing notes.
+Type: NORP, Value: Chinese
+Tweet number: 142 Out of 200
+
+Original post: %s Very excited to announce that while Reba McEntire is playing the new Colonel Sanders I will be playing the new Reba McEntire.
+Clean post: %s Very excited to announce that while Reba McEntire is playing the new Colonel Sardine I will be playing the new Reba McEntire.
+Type: PERSON, Value: Reba McEntire
+Type: PERSON, Value: Sanders
+Type: PERSON, Value: Reba McEntire
+Tweet number: 143 Out of 200
+
+Original post: %s The first rule of Secret Society is you talk and text about Secret Society.
+Clean post: %s The first rule of Secret Society is you talk and text about Secret Society.
+Type: ORDINAL, Value: first
+Type: ORG, Value: Secret Society
+Type: PERSON, Value: Secret Society
+Tweet number: 144 Out of 200
+
+Original post: %s Some see a glass half empty. Others, a glass half full. I just see that someone forgot to put his glass into the dishwasher upside down and we've talked about this, Chad.
+Clean post: %s Some see a glass half empty. Others, a glass half full. I just see that someone forgot to put his glass into the dishwasher upside down and we've talked about this, Chad.
+Type: CARDINAL, Value: half
+Type: CARDINAL, Value: half
+Type: GPE, Value: Chad
+Tweet number: 145 Out of 200
+
+Original post: %s I’m more of a “get spanked with Businessweek” kind of guy.
+Clean post: %s I’m more of a “get spanked with Businessweek” kind of guy.
+Type: PERSON, Value: ’m
+Type: ORG, Value: Businessweek
+Tweet number: 146 Out of 200
+
+Original post: %s There’s only one way for me to shake this bad mood I’m in. I need to punch a Bitcoin millionaire.
+Clean post: %s There’s only one way for me to shake this bad mood I’m in. I need to punch a Bitcoin millionaire.
+Type: CARDINAL, Value: only one
+Type: GPE, Value: Bitcoin
+Tweet number: 147 Out of 200
+
+Original post: %s Aloha to the person in charge of sending out emergency alerts in Hawaii. And also, Aloha.
+Clean post: %s Aloha to the person in charge of sending out emergency alerts in Hawaii. And also, Aloha.
+Type: PERSON, Value: Aloha
+Type: GPE, Value: Hawaii
+Type: PERSON, Value: Aloha
+Tweet number: 148 Out of 200
+
+Original post: %s Trump isn’t so much politically incorrect as he is everything incorrect.
+Clean post: %s Trump isn’t so much politically incorrect as he is everything incorrect.
+Type: ORG, Value: Trump
+Tweet number: 149 Out of 200
+
+Original post: %s To be clear, I’m not being racist when I call Council Bluffs, Iowa a shithole.
+Clean post: %s To be clear, I’m not being racist when I call Council Bluffs, Iowa a shithole.
+Type: ORG, Value: ’m
+Type: ORG, Value: Council Bluffs
+Type: GPE, Value: Iowa
+Tweet number: 150 Out of 200
+
+Original post: %s Two weeks into my new diet and I’ve decided it would be a lot easier for me if everyone else just decided to get fat.
+Clean post: %s Two weeks into my new diet and I’ve decided it would be a lot easier for me if everyone else just decided to get fat.
+Type: DATE, Value: Two weeks
+Tweet number: 151 Out of 200
+
+Original post: %s Pro tip: Wipe the foam from your mouth before screaming into the void about how stable a genius you are.
+Clean post: %s Pro tip: Wipe the foam from your mouth before screaming into the void about how stable a genius you are.
+Tweet number: 152 Out of 200
+
+Original post: %s I’m calling this photo “America 2018.” I didn’t expect to win a Pulitzer on my way to work today, but there you go. https://t.co/GdJpID2MYv
+Clean post: %s I’m calling this photo “America 2018.” I didn’t expect to win a Pulitzer on my way to work today, but there you go. 
+Type: PERSON, Value: ’m
+Type: GPE, Value: America
+Type: PERSON, Value: Pulitzer
+Type: DATE, Value: today
+Tweet number: 153 Out of 200
+
+Original post: %s “Hey, I finally found a domain name that’s available!” https://t.co/7HZjz26cDt
+Clean post: %s “Hey, I finally found a domain name that’s available!” 
+Type: ORG, Value: ’s
+Tweet number: 154 Out of 200
+
+Original post: %s Why not make the entire airplane out of emotional support animals?
+Clean post: %s Why not make the entire airplane out of emotional support animals?
+Tweet number: 155 Out of 200
+
+Original post: %s Happy Pretend It’s The New Year In The Central Time Zone, Too, So I Can Just Go To Bed Now!
+Clean post: %s Happy Pretend It’s The New Year In The Central Time Zone, Too, So I Can Just Go To Bed Now!
+Tweet number: 156 Out of 200
+
+Original post: %s @jilltwiss No joke, I have watched it twice. They destroy the entire room. It’s genius.
+Clean post: %s @jilltwiss No joke, I have watched it twice. They destroy the entire room. It’s genius.
+Tweet number: 157 Out of 200
+
+Original post: %s @stevebyrnelive All Steves, sorry.
+Clean post: %s @stevebyrnelive All Steves, sorry.
+Tweet number: 158 Out of 200
+
+Original post: %s God bless us, everyone (except Steve).
+Clean post: %s God bless us, everyone (except Steve).
+Type: PERSON, Value: Steve
+Tweet number: 159 Out of 200
+
+Original post: %s Not gonna lie. I’ve had happier Honda Days.
+Clean post: %s Not gonna lie. I’ve had happier Honda Days.
+Type: ORG, Value: Honda
+Type: DATE, Value: Days
+Tweet number: 160 Out of 200
+
+Original post: %s We’re just going to let Winter Wonderland get away with rhyming blue bird and new bird? That’s cool with everyone?
+Clean post: %s We’re just going to let Winter Wonderland get away with rhyming blue bird and new bird? That’s cool with everyone?
+Type: PERSON, Value: Winter
+Tweet number: 161 Out of 200
+
+Original post: %s On Christmas morning, Donald Trump waking up and bragging about being visited by “dozens, if not hundreds” of ghosts.
+Clean post: %s On Christmas morning, Donald Trump waking up and bragging about being visited by “dozens, if not hundreds” of ghosts.
+Type: DATE, Value: Christmas
+Type: PERSON, Value: Donald Trump
+Type: CARDINAL, Value: hundreds
+Tweet number: 162 Out of 200
+
+Original post: %s Not true, Little Drummer Boy. You could have given the baby your drum.
+Clean post: %s Not true, Little Drummer Boy. You could have given the baby your drum.
+Tweet number: 163 Out of 200
+
+Original post: %s (SPOILER ALERT) In 100 years, nobody will remember you.
+Clean post: %s (SPOILER ALERT) In 100 years, nobody will remember you.
+Type: DATE, Value: 100 years
+Tweet number: 164 Out of 200
+
+Original post: %s My favorite Christmas song is whatever plays immediately after Feliz Navidad.
+Clean post: %s My favorite Christmas song is whatever plays immediately after Feliz Navidad.
+Type: DATE, Value: Christmas
+Type: ORG, Value: Feliz Navidad
+Tweet number: 165 Out of 200
+
+Original post: %s Over the last fifteen years, automatic paper towel dispensers have improved so dramatically they almost work sometimes.
+Clean post: %s Over the last fifteen years, automatic paper towel dispensers have improved so dramatically they almost work sometimes.
+Type: DATE, Value: the last fifteen years
+Tweet number: 166 Out of 200
+
+Original post: %s In retrospect, I probably should have become George Clooney’s best friend. That’s on me. https://t.co/dXTR6m6Irm
+Clean post: %s In retrospect, I probably should have become George Clooney’s best friend. That’s on me. 
+Type: PERSON, Value: George Clooney’s
+Tweet number: 167 Out of 200
+
+Original post: %s How would anyone know if Steve Bannon slipped into a post-election depression and started to let himself go?
+Clean post: %s How would anyone know if Steve Bannon slipped into a post-election depression and started to let himself go?
+Type: PERSON, Value: Steve Bannon
+Tweet number: 168 Out of 200
+
+Original post: %s Praying for Franklin Graham. https://t.co/QSWsX5biGm
+Clean post: %s Praying for Franklin Graham. 
+Type: PERSON, Value: Franklin Graham
+Tweet number: 169 Out of 200
+
+Original post: %s Roy Moore stepping away from politics to spend more time with his wife and your kids.
+Clean post: %s Roy Moore stepping away from politics to spend more time with his wife and your kids.
+Type: PERSON, Value: Roy Moore
+Tweet number: 170 Out of 200
+
+Original post: %s The message of that Rudolph special is to just be yourself. Unless you're too weird, in which case we'll violently pull out all of your teeth.
+Clean post: %s The message of that Rudolph special is to just be yourself. Unless you're too weird, in which case we'll violently pull out all of your teeth.
+Type: PERSON, Value: Rudolph
+Tweet number: 171 Out of 200
+
+Original post: %s If you listen very closely to The Little Drummer Boy you can actually hear the three wise men rolling their eyes.
+Clean post: %s If you listen very closely to The Little Drummer Boy you can actually hear the three wise men rolling their eyes.
+Type: WORK_OF_ART, Value: The Little Drummer Boy
+Type: CARDINAL, Value: three
+Tweet number: 172 Out of 200
+
+Original post: %s Gonna spend the weekend binge-watching the Domino's Pizza Tracker.
+Clean post: %s Gonna spend the weekend binge-watching the Domino's Pizza Tracker.
+Type: DATE, Value: the weekend
+Type: WORK_OF_ART, Value: the Domino's Pizza Tracker
+Tweet number: 173 Out of 200
+
+Original post: %s Sorry I haven’t tweeted in a while but for a while there I was emotionally stable.
+Clean post: %s Sorry I haven’t tweeted in a while but for a while there I was emotionally stable.
+Tweet number: 174 Out of 200
+
+Original post: %s I like to be photographed with a Supermoon because it makes me look thinner.
+Clean post: %s I like to be photographed with a Supermoon because it makes me look thinner.
+Type: EVENT, Value: Supermoon
+Tweet number: 175 Out of 200
+
+Original post: %s Fair warning: I will stand up and object to your marriage if your wedding hashtag is too cutesy.
+Clean post: %s Fair warning: I will stand up and object to your marriage if your wedding hashtag is too cutesy.
+Tweet number: 176 Out of 200
+
+Original post: %s It might be time for Twitter to delete Twitter.
+Clean post: %s It might be time for Twitter to delete Twitter.
+Type: LOC, Value: Twitter
+Type: GPE, Value: Twitter
+Tweet number: 177 Out of 200
+
+Original post: %s Arby’s is buying Buffalo Wild Wings? Your Christmas dinner meal planning just got a whole lot easier, recently divorced dads.
+Clean post: %s Arby’s is buying Buffalo Wild Wings? Your Christmas dinner meal planning just got a whole lot easier, recently divorced dads.
+Type: ORG, Value: Arby’s
+Type: ORG, Value: Buffalo Wild Wings
+Type: DATE, Value: Christmas
+Tweet number: 178 Out of 200
+
+Original post: %s Not a good sign that the pilot of this plane has an emotional support dog.
+Clean post: %s Not a good sign that the pilot of this plane has an emotional support dog.
+Tweet number: 179 Out of 200
+
+Original post: %s “SURPRISE! Happy birthday!”
+
+“Uh, my birthday isn’t for another three months.”
+
+“What part of ‘surprise’ do you not understand?”
+Clean post: %s “SURPRISE! Happy birthday!” “Uh, my birthday isn’t for another three months.” “What part of ‘surprise’ do you not understand?”
+Type: DATE, Value: another three months
+Tweet number: 180 Out of 200
+
+Original post: %s Not a single obituary mentions Charles Manson’s beautiful singing voice.
+Clean post: %s Not a single obituary mentions Charles Manson’s beautiful singing voice.
+Type: PERSON, Value: Charles Manson’s
+Tweet number: 181 Out of 200
+
+Original post: %s Now that Charles Manson is dead, the most evil person in America is the guy who invented resort fees for hotels.
+Clean post: %s Now that Charles Manson is dead, the most evil person in America is the guy who invented resort fees for hotels.
+Type: PERSON, Value: Charles Manson
+Type: GPE, Value: America
+Tweet number: 182 Out of 200
+
+Original post: %s The greatest trick the devil ever pulled was making Twitter so simple even a barely literate 71-year-old could master it.
+Clean post: %s The greatest trick the devil ever pulled was making Twitter so simple even a barely literate 71-year-old could master it.
+Tweet number: 183 Out of 200
+
+Original post: %s If you wanted to name your boat after a 1980s R&amp;B group, you can’t go wrong with DeBarge.
+Clean post: %s If you wanted to name your boat after a 1980s RandB group, you can’t go wrong with DeBarge.
+Type: DATE, Value: 1980s
+Type: ORG, Value: DeBarge
+Tweet number: 184 Out of 200
+
+Original post: %s Wanna feel old? That guy you knew from that thing is even older now!
+Clean post: %s Wanna feel old? That guy you knew from that thing is even older now!
+Tweet number: 185 Out of 200
+
+Original post: %s [ open twitter, instantly hate humanity a teensy bit more, close twitter, repeat fifty times a day for the rest of our lives, apparently ]
+Clean post: %s [ open twitter, instantly hate humanity a teensy bit more, close twitter, repeat fifty times a day for the rest of our lives, apparently ]
+Type: CARDINAL, Value: fifty
+Tweet number: 186 Out of 200
+
+Original post: %s Not sure how to pronounce the second word of this Thor sequel. https://t.co/QC0AOouIG3
+Clean post: %s Not sure how to pronounce the second word of this Thor sequel. 
+Type: ORDINAL, Value: second
+Type: PERSON, Value: Thor
+Tweet number: 187 Out of 200
+
+Original post: %s Looks like Christopher Plummer will be getting the 11pm slot at the Comedy Cellar tonight.
+Clean post: %s Looks like Christopher Plummer will be getting the 11pm slot at the Comedy Cellar tonight.
+Type: PERSON, Value: Christopher Plummer
+Type: TIME, Value: 11pm
+Type: FAC, Value: the Comedy Cellar
+Type: TIME, Value: tonight
+Tweet number: 188 Out of 200
+
+Original post: %s Autumn is the best season if for no other reason than sweaters are very forgiving.
+Clean post: %s Autumn is the best season if for no other reason than sweaters are very forgiving.
+Tweet number: 189 Out of 200
+
+Original post: %s The only good thing about 280 characters is that I now have a visual cue for which tweets to automatically skip.
+Clean post: %s The only good thing about 280 characters is that I now have a visual cue for which tweets to automatically skip.
+Type: CARDINAL, Value: about 280
+Tweet number: 190 Out of 200
+
+Original post: %s If I wanted to hear what anyone had to say in more than 140 characters I’d go outside and interact with real people. NO THANK YOU.
+Clean post: %s If I wanted to hear what anyone had to say in more than 140 characters I’d go outside and interact with real people. NO THANK YOU.
+Type: CARDINAL, Value: more than 140
+Tweet number: 191 Out of 200
+
+Original post: %s Fuck every single one of these additional 140 characters.
+Clean post: %s Fuck every single one of these additional 140 characters.
+Type: CARDINAL, Value: one
+Type: CARDINAL, Value: 140
+Tweet number: 192 Out of 200
+
+Original post: %s maybe don’t put the spigot there tho https://t.co/7mI8xCWbMh
+Clean post: %s maybe don’t put the spigot there tho 
+Tweet number: 193 Out of 200
+
+Original post: %s Guy behind me at the movie concession stand just ordered a “sausage baguette and a glass of Chardonnay.” Please send drone strike.
+Clean post: %s Guy behind me at the movie concession stand just ordered a “sausage baguette and a glass of Chardonnay.” Please send drone strike.
+Type: ORG, Value: Chardonnay
+Tweet number: 194 Out of 200
+
+Original post: %s Couldn’t get out of Vietnam this time? https://t.co/doiEgNpG9A
+Clean post: %s Couldn’t get out of Vietnam this time? 
+Type: GPE, Value: Vietnam
+Tweet number: 195 Out of 200
+
+Original post: %s Billion dollar holiday movie idea: “Murder on the Polar Express.”
+Clean post: %s Billion dollar holiday movie idea: “Murder on the Polar Express.”
+Type: MONEY, Value: Billion dollar
+Type: ORG, Value: the Polar Express
+Tweet number: 196 Out of 200
+
+Original post: %s I feel like I would thrive in the Upside Down.
+Clean post: %s I feel like I would thrive in the Upside Down.
+Tweet number: 197 Out of 200
+
+Original post: %s It’s Friday, which means it’s almost the weekend, which means we’re marching methodically towards death, but don’t focus on that last part!
+Clean post: %s It’s Friday, which means it’s almost the weekend, which means we’re marching methodically towards death, but don’t focus on that last part!
+Type: DATE, Value: Friday
+Type: DATE, Value: almost the weekend
+Tweet number: 198 Out of 200
+
+Original post: %s So basically.... T-Mobile is holding hurricane relief money hostage unless someone hits a home run?
+Clean post: %s So basically.... T-Mobile is holding hurricane relief money hostage unless someone hits a home run?
+Tweet number: 199 Out of 200
+
+Original post: %s Congratulations to the 1991 Macintosh Classic II that designed this year’s World Series arm patch.
+Clean post: %s Congratulations to the 1991 Macintosh Classic II that designed this year’s World Series arm patch.
+Type: DATE, Value: 1991
+Type: EVENT, Value: Macintosh Classic II
+Type: DATE, Value: year
+Type: EVENT, Value: ’s World Series
+['The Lion King', 'The Masked Singer', '’s Cold Outside', 'The Shape of Water', 'The Little Drummer Boy', "the Domino's Pizza Tracker"]
+['Mueller', 'John', 'Wick', 'Starbucks', 'Hawkeye', 'Tiger', 'Woods', 'Beto', 'O’Rourke', 'White', 'House', 'Twitter', 'Robert', 'Kraft', 'James', 'Cameron...', 'https:t.covSvepHeIOG', 'Patriots', 'Red', 'Lobster.', 'Trump', 'Mattis', 'Robin', 'Hood', 'movie.', 'Linus', 'Geraldo', 'Rivera', 'Kevin', 'Sacha', 'Baron', 'Cohen', 'Elon', 'Musk', 'El', 'Paso.', 'Maisel', 'ABC', 'Alvin', 'Clifford', 'Cameron', 'Art', 'Bell', 'Frank', 'Sinatra', 'Greg', 'reboot,', 'Ted', 'Cruz', 'Andy', 'BIDEN', 'Ben', 'Affleck', 'Pacific', 'Rim', 'Facebook', 'Martin', 'Delta', 'Airlines', 'NRA', 'United', 'Fergie', 'Las', 'Vegas', 'Cirque', 'Quincy', 'Jones.', 'Hot', 'Chili', 'Peppers', 'Doritos', 'Reba', 'McEntire', 'Sanders', 'McEntire.', 'Hawaii.', 'Iowa', 'Honda', 'Winter', 'Wonderland', 'Donald', 'Feliz', 'Navidad.', 'Steve', 'Bannon', 'Franklin', 'Roy', 'Moore', 'Rudolph', 'Charles', 'Manson', 'America', 'Christopher', 'Plummer', 'Vietnam', 'Thor Fhor', 'Adam Sandler', 'The Lion King', 'Found', 'the whole day', 'Instagram', 'John Wick 3', 'Game of Thrones', 'modern-day', 'Canada', 'Endgame', 'every minute', 'Tiger Woods', 'first', 'Saturday', 'second', 'Beto O’Rourke', 'White House', '15 minutes', 'tomorrow', 'Robert Kraft', 'The Masked Singer', 'Fitbit', 'James Cameron', 'the weekend', 'SuperBowl', 'Rams', 'Shrimp', 'Red Lobster', '&gt', 'Christmas', 'Valentine', '2023', '2019', 'NOW', 'Snoopy', '37', 'Baby', '’s Cold Outside', 'Bang', 'December', 'Lexus', '1', '2', '3', '4', '5', 'Loudly', 'Waaaaaaaaay', 'This week', 'Robin Hood', 'two', 'Nutcracker', 'this extra hour', 'today', 'at least three', 'Last-minute', 'Halloween', 'Reddit', 'Conners', 'one', 'every single week', 'the Great Pumpkin', '’s', 'Kanye West', 'Flight Club', 'Mike', 'Crosswalk', 'Ian Karmel', '10', '9', '8', '7', '6', 'Geraldo Rivera', 'the National Enquirer', '’s Space Force', 'Tuesday', 'Neo-Monday', 'tonight', 'Oreos', 'Uber', 'one week', 'The World Cup', 'just two days ago', 'Trump’s', 'Papa John', 'the Month award', 'Elon Musk', '13,000', 'Belgium', '#FRABEL', 'WTF', 'Ocean’s 9', 'El Paso', 'an hour', '’m', 'four-day holiday weekend', 'THE NEW MISS USA', 'JOYOUS REIGN', 'END', 'one morning', 'Laurel/Yanny', 'seven years ago', 'Time', '2020', 'five', 'Avatar', 'Art Bell', '1937', 'Frank Sinatra', 'Italian', 'Shakespearean', 'American Chopper', 'Dharma &amp', 'Ted Cruz', '@benrector Actual', 'two minutes', 'VR', 'Ready Player', 'Andy Rooney', 'TRUMP', 'five years', 'Thunderdome', 'fourth', 'Ben Affleck', 'Pacific Rim', 'The Shape of Water', 'the last minute', "Martin Shkreli's", '4,000 percent', "Mike Tyson's", 'Nose', 'Tyson', 'Delta Airlines', 'Smash Mouth', '#AllStar', 'PaidForBySmashMouth', 'Black Eyed Peas', 'ten days', 'the Winter Olympics', 'Valentine’s Day', 'Las Vegas', 'Cirque du Soleil', 'a few thousand', 'Quincy Jones', 'Red Hot Chili Peppers Doritos', '30s', '40s', 'Chinese', 'Reba McEntire', 'Secret Society', 'half', 'Chad', 'Businessweek', 'only one', 'Bitcoin', 'Aloha', 'Hawaii', 'Council Bluffs', 'Two weeks', 'Pulitzer', 'Days', 'Donald Trump', 'hundreds', '100 years', 'Feliz Navidad', 'the last fifteen years', 'George Clooney’s', 'Steve Bannon', 'Franklin Graham', 'Roy Moore', 'The Little Drummer Boy', 'three', "the Domino's Pizza Tracker", 'Supermoon', 'Arby’s', 'Buffalo Wild Wings', 'another three months', 'Charles Manson’s', 'Charles Manson', '1980s', 'DeBarge', 'fifty', 'Thor', 'Christopher Plummer', '11pm', 'the Comedy Cellar', 'about 280', 'more than 140', '140', 'Chardonnay', 'Billion dollar', 'the Polar Express', 'Friday', 'almost the weekend', '1991', 'Macintosh Classic II', 'year', '’s World Series']
+['karate', 'reading', 'soccer', 'singing']
+Whoever the first guy who invented resort fees for hotels.
+Others, a glass half empty.
+Trump really gunning for that Employee of the pizza, where there shouldn’t be any more pizza, there’s even more pizza.
+Sorry, but none of you guys on not eating romaine lettuce.
+A Pacific Rim crossover with The General from those insurance ads.
+@jilltwiss No joke, I have to figure out how to get fat.
+That guy you knew from that thing is we’re all having no fun.
+WANT They should make Red Hot Chili Peppers Doritos so your stomach can hate the thought of a “get spanked with Businessweek” kind of guy.
+As a kid, I way overestimated how much of my adult life than the resigned acceptance of a restaurant’s house salad.
+Life is a perfect march madness bracket I feel like it would be disrespectful to work today, but there you go.
+I’ve never willingly read a memo and I’m not being racist when I call Council Bluffs, Iowa a shithole.
+My favorite Christmas song is whatever plays immediately after “Avengers: Endgame,” where he just goes around picking up all his arrows.
+Really looking forward to getting these midterm elections out of the Month award.
+My biggest fear is my pizza delivery guy getting together and comparing notes.
+Your 20s: Passionately arguing about brands of antacid.
+Also, I murdered a guy named Kevin who I swear looks more like a box of chocolates, because both are better with wine.
+Fuck every single week.
+As a kid, I way overestimated how much of my adult life than the resigned acceptance of a stroke, but I love the smell of burnt toast.
+This week, hold your family a happy and healthy 2023.
+Others, a glass half empty.
+If you listen very closely to The Little Drummer Boy you can exploit all their weaknesses later.
+A Pacific Rim crossover with The General from those insurance ads.
+How would anyone know if this is an Italian restaurant?
+They destroy the entire Internet.
+Really looking forward to getting these midterm elections out of Vietnam this time?
+Some see a glass of Chardonnay.”
+On Christmas morning, Donald Trump waking up and object to your marriage if your wedding hashtag is too cutesy.
+Two weeks into my new diet and I’ve already forgotten soccer exists.
+This is my pizza delivery guy getting together and comparing notes.
+Every single person on the Polar Express.”
+Turns out this Robert Kraft story didn’t have a visual cue for which tweets to automatically skip.
+Twitter has become an awful hellscape of hatred and stupidity that is real life.
+Still time to time.
+A Hawkeye standalone movie that takes place in modern-day Canada.
+I have to wait an hour after eating before getting into the weekend like The important thing is we’re all having no fun.
+Fuck every single week.
+I like to be bothered.
+Huge shout out to people who wear headphones because they don't want to see five more Avatar movies.
+They destroy the entire airplane out of Vietnam this time?
+Would hate to be bothered.
+Some see a glass of Chardonnay.”
+Not true, Little Drummer Boy you can avoid Cirque du Soleil.
+I need at least three more A-list celebrities to tell me to shake this bad mood I’m in.
+Idea: A Las Vegas hotel where you have to figure out how to get fat.
+My pacifist friends and I just see that new Nutcracker movie.
+I hate the thought of a “get spanked with Businessweek” kind of guy.
+Not a good sign that the pilot of this is a Sacha Baron Cohen character.
+All of this plane has an emotional support dog to establish B49 gate dominance.
+This will all be worth it once it’s revealed that Trump is caught saying “please” and “thank you.”
+Spent the whole day at the Comedy Cellar tonight.
+Roy Moore stepping away from the Lost and Found box.
+They destroy the entire Internet.
+If you wanted to hear what anyone had to say in more than you actually like red velvet cupcakes.
+Elon Musk now working on a way to know if this is a crazy adventure.
+Would hate to be bothered.
+I just see that new Robin Hood movie.
+If there isn’t a picture to post on Instagram.
+Every item of clothing looks like it would be a December to Remember if, instead of a stroke, but I love the smell of burnt toast.
+Autumn is the day Elon Musk now working on a time machine.
+Every item of clothing looks like it would still be a lot easier for me to vote before I’ll even consider it.
+Way ahead of you.
+To be clear, I’m not starting now.
+Your 30s: Passionately arguing about brands of antacid.
+Really looking forward to getting these midterm elections out of Vietnam this time?
+Two weeks into my new diet and I’ve already forgotten soccer exists.
+As a kid, I way overestimated how much of my adult life than the resigned acceptance of a stroke, but I love the smell of burnt toast.
+Not going to lie, it bogs down a mountain I might accidentally win a medal.
+Two weeks into my house.
+Just convinced myself that it would be disrespectful to work today, but there you go.
+Way ahead of you.
+Elon Musk began working on a way to work today, but there you go.
+Out of spite, ABC should greenlight a Planet of the way so we can all talk about that new Robin Hood movie.
+A Pacific Rim crossover with The General from those insurance ads.
+Idea: A Las Vegas hotel where you can exploit all their weaknesses later.
+I’m more of a restaurant’s house salad.
+There’s only one good shirt.
+Every single person on the planet is ten days of dedicated practice away from politics to spend more time with his wife and your kids.
+Fair warning: I will be playing the new Colonel Sardine I will withhold judgment until we hear from Carmen Electra.
+Not going to let himself go?
+If Clifford was a waste of time.
+All of this is an Italian restaurant?
+Fuck every single week.
+Elon Musk now working on a time machine.
+I finished reading the entire airplane out of Vietnam this time?
+If you wanted to hear what anyone had to say in more than you actually like red velvet cupcakes.
+@jilltwiss No joke, I have a visual cue for which tweets to automatically skip.
+If Clifford was a waste of time.
+That guy you knew from that thing is we’re all having no fun.
+I keep a loaded t-shirt cannon under my pillow in case you’re wondering if there are still heroes out there.
+Also, I murdered a guy named Kevin who I swear looks more like a box of chocolates, because both are better with wine.
+Not a good sign that the pilot of this is an Italian restaurant?
+There’s only one way for me to vote before I’ll even consider it.
+My biggest fear is my parking level.
+Still time to time.
+I like the idea of red velvet cupcakes more than you actually like red velvet cupcakes more than you actually like red velvet cupcakes.
+Just met a guy named Kevin who I swear looks more like a box of chocolates, because both are better with wine.
+Sorry I haven’t tweeted in a while there I was two.
+Not going to lie, it bogs down a mountain I might accidentally win a medal.
+Not going to lie, it bogs down a mountain I might accidentally win a Pulitzer on my way to save Belgium.
+Still time to time.
+Tweet: Still time to time. Posted.
+
+
+
+***** Phishing Message *****
+User First Name = Tim, User Location = Nebraska and Los Angeles, User Hobbies = karate,reading,soccer,singing, User Favorite Work of Art = The Lion King,The Masked Singer,’s Cold Outside,The Shape of Water,The Little Drummer Boy,the Domino's Pizza Tracker
+
+***** Phishing Message *****
+
+
+Msg format 0:
+Hi Tim!
+There's a new award winning competition at Nebraska and Los Angeles which will include karate, reading, soccer, singing
+Everybody is welcomed <URL>
+Msg format 1:
+Hi everybody!
+There's a new award winning competition at Nebraska and Los Angeles which will include karate, reading, soccer, singing
+Everybody is welcomed <URL>
+Msg format 2:
+Hi everybody!
+We opened a new theater in Nebraska and Los Angeles showing The Lion King, The Masked Singer, ’s Cold Outside, The Shape of Water, The Little Drummer Boy, the Domino's Pizza Tracker
+FREE tickets here <URL>
+Msg format 3:
+Hi Tim!
+We opened a new theater in Nebraska and Los Angeles showing The Lion King, The Masked Singer, ’s Cold Outside, The Shape of Water, The Little Drummer Boy, the Domino's Pizza Tracker
+FREE tickets here <URL>
+
+Process finished with exit code 0

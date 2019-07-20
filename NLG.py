@@ -8,4 +8,7 @@ class MRK_NLG:
 
     def create_tweet(self):
         # text_model = markovify.NewlineText(self.dict, state_size=2)
-        print(self.text_model.make_short_sentence(140))
+        tweet = self.text_model.make_short_sentence(140)
+        print(tweet)
+
+        return tweet
